@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta content="Adobe InDesign 16.3.2" name="generator"/>
+    <meta name="cover" content="omslag.jpg"/>
+    <dc:title>Alice in Wonderland</dc:title>
+    <dc:creator>Lewis Carroll</dc:creator>
+    <dc:publisher>KB / DBNL / Formaat</dc:publisher>
+    <dc:date>2021-07-07T11:09:24Z</dc:date>
+    <dc:language>en-GB</dc:language>
+    <meta property="dcterms:modified">2021-07-07T13:11:04Z</meta>
+    <dc:identifier id="bookid">urn:uuid:650E8F77-B80F-4C8E-BAEC-D985FE0581A0</dc:identifier>
+    <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 AA.</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+    <meta content="1.5.1" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="auteur.jpg" href="image/auteur.jpg" media-type="image/jpeg"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ff.css" href="css/ff.css" media-type="text/css"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="image-1.jpg" href="image/image-1.jpg" media-type="image/jpeg"/>
+    <item id="image-10.jpg" href="image/image-10.jpg" media-type="image/jpeg"/>
+    <item id="image-106.jpg" href="image/image-106.jpg" media-type="image/jpeg"/>
+    <item id="image-11.jpg" href="image/image-11.jpg" media-type="image/jpeg"/>
+    <item id="image-117.jpg" href="image/image-117.jpg" media-type="image/jpeg"/>
+    <item id="image-118.png" href="image/image-118.png" media-type="image/png"/>
+    <item id="image-119.jpg" href="image/image-119.jpg" media-type="image/jpeg"/>
+    <item id="image-12.jpg" href="image/image-12.jpg" media-type="image/jpeg"/>
+    <item id="image-120.png" href="image/image-120.png" media-type="image/png"/>
+    <item id="image-121.jpg" href="image/image-121.jpg" media-type="image/jpeg"/>
+    <item id="image-13.jpg" href="image/image-13.jpg" media-type="image/jpeg"/>
+    <item id="image-131.jpg" href="image/image-131.jpg" media-type="image/jpeg"/>
+    <item id="image-14.jpg" href="image/image-14.jpg" media-type="image/jpeg"/>
+    <item id="image-144.jpg" href="image/image-144.jpg" media-type="image/jpeg"/>
+    <item id="image-15.png" href="image/image-15.png" media-type="image/png"/>
+    <item id="image-16.png" href="image/image-16.png" media-type="image/png"/>
+    <item id="image-17.jpg" href="image/image-17.jpg" media-type="image/jpeg"/>
+    <item id="image-18.jpg" href="image/image-18.jpg" media-type="image/jpeg"/>
+    <item id="image-19.jpg" href="image/image-19.jpg" media-type="image/jpeg"/>
+    <item id="image-2.png" href="image/image-2.png" media-type="image/png"/>
+    <item id="image-20.jpg" href="image/image-20.jpg" media-type="image/jpeg"/>
+    <item id="image-21.jpg" href="image/image-21.jpg" media-type="image/jpeg"/>
+    <item id="image-22.jpg" href="image/image-22.jpg" media-type="image/jpeg"/>
+    <item id="image-23.jpg" href="image/image-23.jpg" media-type="image/jpeg"/>
+    <item id="image-24.jpg" href="image/image-24.jpg" media-type="image/jpeg"/>
+    <item id="image-25.png" href="image/image-25.png" media-type="image/png"/>
+    <item id="image-26.jpg" href="image/image-26.jpg" media-type="image/jpeg"/>
+    <item id="image-27.jpg" href="image/image-27.jpg" media-type="image/jpeg"/>
+    <item id="image-28.png" href="image/image-28.png" media-type="image/png"/>
+    <item id="image-29.jpg" href="image/image-29.jpg" media-type="image/jpeg"/>
+    <item id="image-30.jpg" href="image/image-30.jpg" media-type="image/jpeg"/>
+    <item id="image-31.png" href="image/image-31.png" media-type="image/png"/>
+    <item id="image-32.png" href="image/image-32.png" media-type="image/png"/>
+    <item id="image-33.jpg" href="image/image-33.jpg" media-type="image/jpeg"/>
+    <item id="image-34.jpg" href="image/image-34.jpg" media-type="image/jpeg"/>
+    <item id="image-35.jpg" href="image/image-35.jpg" media-type="image/jpeg"/>
+    <item id="image-4.png" href="image/image-4.png" media-type="image/png"/>
+    <item id="image-44.png" href="image/image-44.png" media-type="image/png"/>
+    <item id="image-5.jpg" href="image/image-5.jpg" media-type="image/jpeg"/>
+    <item id="image-6.jpg" href="image/image-6.jpg" media-type="image/jpeg"/>
+    <item id="image-7.jpg" href="image/image-7.jpg" media-type="image/jpeg"/>
+    <item id="image-8.jpg" href="image/image-8.jpg" media-type="image/jpeg"/>
+    <item id="image-9.jpg" href="image/image-9.jpg" media-type="image/jpeg"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="omslag.jpg" href="image/omslag.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="omslag1.jpg" href="image/omslag1.jpg" media-type="image/jpeg"/>
+    <item id="omslag2.jpg" href="image/omslag2.jpg" media-type="image/jpeg"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="x20210707tempKB-Alice1" href="20210707tempKB-Alice1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-1" href="20210707tempKB-Alice1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-10" href="20210707tempKB-Alice1-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-11" href="20210707tempKB-Alice1-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-12" href="20210707tempKB-Alice1-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-13" href="20210707tempKB-Alice1-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-14" href="20210707tempKB-Alice1-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-15" href="20210707tempKB-Alice1-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-16" href="20210707tempKB-Alice1-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-17" href="20210707tempKB-Alice1-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-18" href="20210707tempKB-Alice1-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-2" href="20210707tempKB-Alice1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-3" href="20210707tempKB-Alice1-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-4" href="20210707tempKB-Alice1-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-5" href="20210707tempKB-Alice1-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-6" href="20210707tempKB-Alice1-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-7" href="20210707tempKB-Alice1-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-8" href="20210707tempKB-Alice1-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20210707tempKB-Alice1-9" href="20210707tempKB-Alice1-9.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="x20210707tempKB-Alice1"/>
+    <itemref idref="x20210707tempKB-Alice1-1"/>
+    <itemref idref="x20210707tempKB-Alice1-2"/>
+    <itemref idref="x20210707tempKB-Alice1-3"/>
+    <itemref idref="x20210707tempKB-Alice1-4"/>
+    <itemref idref="x20210707tempKB-Alice1-5"/>
+    <itemref idref="x20210707tempKB-Alice1-6"/>
+    <itemref idref="x20210707tempKB-Alice1-7"/>
+    <itemref idref="x20210707tempKB-Alice1-8"/>
+    <itemref idref="x20210707tempKB-Alice1-9"/>
+    <itemref idref="x20210707tempKB-Alice1-10"/>
+    <itemref idref="x20210707tempKB-Alice1-11"/>
+    <itemref idref="x20210707tempKB-Alice1-12"/>
+    <itemref idref="x20210707tempKB-Alice1-13"/>
+    <itemref idref="x20210707tempKB-Alice1-14"/>
+    <itemref idref="x20210707tempKB-Alice1-15"/>
+    <itemref idref="x20210707tempKB-Alice1-16"/>
+    <itemref idref="x20210707tempKB-Alice1-17"/>
+    <itemref idref="x20210707tempKB-Alice1-18"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="20210707tempKB-Alice1-5.xhtml#_idContainer009"/>
+    <reference type="text" title="Beginning" href="20210707tempKB-Alice1-6.xhtml#_idContainer053"/>
+  </guide>
+</package>
