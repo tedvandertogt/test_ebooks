@@ -3,12 +3,12 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <meta content="Adobe InDesign 16.3.2" name="generator"/>
     <meta name="cover" content="omslag.jpg"/>
-    <dc:title>Alice in Wonderland</dc:title>
-    <dc:creator>Lewis Carroll</dc:creator>
-    <dc:publisher>KB / DBNL / Formaat</dc:publisher>
+    <dc:title>Alice's Adventures in Wonderland 2</dc:title>
+    <dc:creator>Lewis Carroll, John Tenniel</dc:creator>
+    <dc:publisher>Wikisource / KB / Formaat</dc:publisher>
     <dc:date>2021-07-07T11:09:24Z</dc:date>
     <dc:language>en-GB</dc:language>
-    <meta property="dcterms:modified">2021-07-07T13:11:04Z</meta>
+    <meta property="dcterms:modified">2021-07-26T13:11:04Z</meta>
     <dc:identifier id="bookid">urn:uuid:650E8F77-B80F-4C8E-BAEC-D985FE0581A0</dc:identifier>
     <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 AA.</meta>
     <meta property="schema:accessMode">textual</meta>
