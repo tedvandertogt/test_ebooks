@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd" >
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="0" name="dtb:totalPageCount"/>
+</head>
+<docTitle><text>Eva</text></docTitle>
+<docAuthor><text>Carry van Bruggen</text></docAuthor>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel><text>Eva</text></navLabel>
+<content src="brug004eva_01_01-0001.xhtml#toc-anchor"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel><text>I. De Nieuwe Eeuw</text></navLabel>
+<content src="brug004eva_01_01-0002.xhtml#toc-anchor1"/>                                            
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel><text>II. Naar huis</text></navLabel>
+<content src="brug004eva_01_01-0003.xhtml#toc-anchor2"/>                                            
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel><text>III. Stemmen</text></navLabel>
+<content src="brug004eva_01_01-0004.xhtml#toc-anchor3"/>                                            
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel><text>IV. Ontmoeting</text></navLabel>
+<content src="brug004eva_01_01-0005.xhtml#toc-anchor4"/>                                            
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel><text>V. Meidag</text></navLabel>
+<content src="brug004eva_01_01-0006.xhtml#toc-anchor5"/>                                            
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel><text>VI. De nacht</text></navLabel>
+<content src="brug004eva_01_01-0007.xhtml#toc-anchor6"/>                                            
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel><text>VII. David</text></navLabel>
+<content src="brug004eva_01_01-0008.xhtml#toc-anchor7"/>                                            
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel><text>VIII. Aan zee</text></navLabel>
+<content src="brug004eva_01_01-0009.xhtml#toc-anchor8"/>                                            
+</navPoint>
+</navMap>
+</ncx>
