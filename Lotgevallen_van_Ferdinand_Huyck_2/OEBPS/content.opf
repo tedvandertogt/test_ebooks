@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>De lotgevallen van Ferdinand Huyck 2</dc:title>
+<dc:date>2011-05-06</dc:date>
+<dc:creator>Jacob van Lennep</dc:creator>
+<dc:language>nl</dc:language>
+<dc:rights></dc:rights>
+<dc:publisher></dc:publisher>
+<dc:identifier id="bookid">e6ae2224-f09b-11eb-9a03-0242ac130003</dc:identifier>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="epubcss" href="template.css" media-type="text/css"/>
+<item id="CharisSILB" href="fonts/CharisSILB.ttf" media-type="font/ttf"/>
+<item id="CharisSILBI" href="fonts/CharisSILBI.ttf" media-type="font/ttf"/>
+<item id="CharisSILI" href="fonts/CharisSILI.ttf" media-type="font/ttf"/>
+<item id="CharisSILR" href="fonts/CharisSILR.ttf" media-type="font/ttf"/>
+<item id="CharisSILR_sc" href="fonts/CharisSILR_sc.ttf" media-type="font/ttf"/>
+<item id="lenn006lotg01ill01" href="images/lenn006lotg01ill01.gif" media-type="image/gif"/>
+<item id="lenn006lotg01ill02" href="images/lenn006lotg01ill02.gif" media-type="image/gif"/>
+<item id="lenn006lotg01_01_tpg" href="images/lenn006lotg01_01_tpg.gif" media-type="image/gif"/>
+<item id="U20B0" href="images/U20B0.gif" media-type="image/gif"/>
+<item id="lenn006lotg01_01-0001" href="lenn006lotg01_01-0001.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0002" href="lenn006lotg01_01-0002.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0003" href="lenn006lotg01_01-0003.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0004" href="lenn006lotg01_01-0004.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0005" href="lenn006lotg01_01-0005.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0006" href="lenn006lotg01_01-0006.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0007" href="lenn006lotg01_01-0007.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0008" href="lenn006lotg01_01-0008.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0009" href="lenn006lotg01_01-0009.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0010" href="lenn006lotg01_01-0010.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0011" href="lenn006lotg01_01-0011.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0012" href="lenn006lotg01_01-0012.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0013" href="lenn006lotg01_01-0013.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0014" href="lenn006lotg01_01-0014.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0015" href="lenn006lotg01_01-0015.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0016" href="lenn006lotg01_01-0016.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0017" href="lenn006lotg01_01-0017.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0018" href="lenn006lotg01_01-0018.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0019" href="lenn006lotg01_01-0019.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0020" href="lenn006lotg01_01-0020.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0021" href="lenn006lotg01_01-0021.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0022" href="lenn006lotg01_01-0022.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0023" href="lenn006lotg01_01-0023.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0024" href="lenn006lotg01_01-0024.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0025" href="lenn006lotg01_01-0025.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0026" href="lenn006lotg01_01-0026.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0027" href="lenn006lotg01_01-0027.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0028" href="lenn006lotg01_01-0028.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0029" href="lenn006lotg01_01-0029.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0030" href="lenn006lotg01_01-0030.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0031" href="lenn006lotg01_01-0031.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0032" href="lenn006lotg01_01-0032.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0033" href="lenn006lotg01_01-0033.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0034" href="lenn006lotg01_01-0034.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0035" href="lenn006lotg01_01-0035.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0036" href="lenn006lotg01_01-0036.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0037" href="lenn006lotg01_01-0037.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0038" href="lenn006lotg01_01-0038.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0039" href="lenn006lotg01_01-0039.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0040" href="lenn006lotg01_01-0040.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0041" href="lenn006lotg01_01-0041.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0042" href="lenn006lotg01_01-0042.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-0043" href="lenn006lotg01_01-0043.xhtml" media-type="application/xhtml+xml"/>
+<item id="lenn006lotg01_01-notes" href="lenn006lotg01_01-notes.xhtml" media-type="application/xhtml+xml"/>
+<item id="logos" href="logos/logos.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="lenn006lotg01_01-0001"/>
+<itemref idref="lenn006lotg01_01-0002"/>
+<itemref idref="lenn006lotg01_01-0003"/>
+<itemref idref="lenn006lotg01_01-0004"/>
+<itemref idref="lenn006lotg01_01-0005"/>
+<itemref idref="lenn006lotg01_01-0006"/>
+<itemref idref="lenn006lotg01_01-0007"/>
+<itemref idref="lenn006lotg01_01-0008"/>
+<itemref idref="lenn006lotg01_01-0009"/>
+<itemref idref="lenn006lotg01_01-0010"/>
+<itemref idref="lenn006lotg01_01-0011"/>
+<itemref idref="lenn006lotg01_01-0012"/>
+<itemref idref="lenn006lotg01_01-0013"/>
+<itemref idref="lenn006lotg01_01-0014"/>
+<itemref idref="lenn006lotg01_01-0015"/>
+<itemref idref="lenn006lotg01_01-0016"/>
+<itemref idref="lenn006lotg01_01-0017"/>
+<itemref idref="lenn006lotg01_01-0018"/>
+<itemref idref="lenn006lotg01_01-0019"/>
+<itemref idref="lenn006lotg01_01-0020"/>
+<itemref idref="lenn006lotg01_01-0021"/>
+<itemref idref="lenn006lotg01_01-0022"/>
+<itemref idref="lenn006lotg01_01-0023"/>
+<itemref idref="lenn006lotg01_01-0024"/>
+<itemref idref="lenn006lotg01_01-0025"/>
+<itemref idref="lenn006lotg01_01-0026"/>
+<itemref idref="lenn006lotg01_01-0027"/>
+<itemref idref="lenn006lotg01_01-0028"/>
+<itemref idref="lenn006lotg01_01-0029"/>
+<itemref idref="lenn006lotg01_01-0030"/>
+<itemref idref="lenn006lotg01_01-0031"/>
+<itemref idref="lenn006lotg01_01-0032"/>
+<itemref idref="lenn006lotg01_01-0033"/>
+<itemref idref="lenn006lotg01_01-0034"/>
+<itemref idref="lenn006lotg01_01-0035"/>
+<itemref idref="lenn006lotg01_01-0036"/>
+<itemref idref="lenn006lotg01_01-0037"/>
+<itemref idref="lenn006lotg01_01-0038"/>
+<itemref idref="lenn006lotg01_01-0039"/>
+<itemref idref="lenn006lotg01_01-0040"/>
+<itemref idref="lenn006lotg01_01-0041"/>
+<itemref idref="lenn006lotg01_01-0042"/>
+<itemref idref="lenn006lotg01_01-0043"/>
+<itemref idref="lenn006lotg01_01-notes"/>
+</spine>
+<guide>
+<reference type="cover" href="images/lenn006lotg01_01_tpg.gif"/>
+<reference type="text" title="Chapter 1" href="lenn006lotg01_01-0001.xhtml"/>
+<reference type="text" title="Chapter 2" href="lenn006lotg01_01-0002.xhtml"/>
+<reference type="text" title="Chapter 3" href="lenn006lotg01_01-0003.xhtml"/>
+<reference type="text" title="Chapter 4" href="lenn006lotg01_01-0004.xhtml"/>
+<reference type="text" title="Chapter 5" href="lenn006lotg01_01-0005.xhtml"/>
+<reference type="text" title="Chapter 6" href="lenn006lotg01_01-0006.xhtml"/>
+<reference type="text" title="Chapter 7" href="lenn006lotg01_01-0007.xhtml"/>
+<reference type="text" title="Chapter 8" href="lenn006lotg01_01-0008.xhtml"/>
+<reference type="text" title="Chapter 9" href="lenn006lotg01_01-0009.xhtml"/>
+<reference type="text" title="Chapter 10" href="lenn006lotg01_01-0010.xhtml"/>
+<reference type="text" title="Chapter 11" href="lenn006lotg01_01-0011.xhtml"/>
+<reference type="text" title="Chapter 12" href="lenn006lotg01_01-0012.xhtml"/>
+<reference type="text" title="Chapter 13" href="lenn006lotg01_01-0013.xhtml"/>
+<reference type="text" title="Chapter 14" href="lenn006lotg01_01-0014.xhtml"/>
+<reference type="text" title="Chapter 15" href="lenn006lotg01_01-0015.xhtml"/>
+<reference type="text" title="Chapter 16" href="lenn006lotg01_01-0016.xhtml"/>
+<reference type="text" title="Chapter 17" href="lenn006lotg01_01-0017.xhtml"/>
+<reference type="text" title="Chapter 18" href="lenn006lotg01_01-0018.xhtml"/>
+<reference type="text" title="Chapter 19" href="lenn006lotg01_01-0019.xhtml"/>
+<reference type="text" title="Chapter 20" href="lenn006lotg01_01-0020.xhtml"/>
+<reference type="text" title="Chapter 21" href="lenn006lotg01_01-0021.xhtml"/>
+<reference type="text" title="Chapter 22" href="lenn006lotg01_01-0022.xhtml"/>
+<reference type="text" title="Chapter 23" href="lenn006lotg01_01-0023.xhtml"/>
+<reference type="text" title="Chapter 24" href="lenn006lotg01_01-0024.xhtml"/>
+<reference type="text" title="Chapter 25" href="lenn006lotg01_01-0025.xhtml"/>
+<reference type="text" title="Chapter 26" href="lenn006lotg01_01-0026.xhtml"/>
+<reference type="text" title="Chapter 27" href="lenn006lotg01_01-0027.xhtml"/>
+<reference type="text" title="Chapter 28" href="lenn006lotg01_01-0028.xhtml"/>
+<reference type="text" title="Chapter 29" href="lenn006lotg01_01-0029.xhtml"/>
+<reference type="text" title="Chapter 30" href="lenn006lotg01_01-0030.xhtml"/>
+<reference type="text" title="Chapter 31" href="lenn006lotg01_01-0031.xhtml"/>
+<reference type="text" title="Chapter 32" href="lenn006lotg01_01-0032.xhtml"/>
+<reference type="text" title="Chapter 33" href="lenn006lotg01_01-0033.xhtml"/>
+<reference type="text" title="Chapter 34" href="lenn006lotg01_01-0034.xhtml"/>
+<reference type="text" title="Chapter 35" href="lenn006lotg01_01-0035.xhtml"/>
+<reference type="text" title="Chapter 36" href="lenn006lotg01_01-0036.xhtml"/>
+<reference type="text" title="Chapter 37" href="lenn006lotg01_01-0037.xhtml"/>
+<reference type="text" title="Chapter 38" href="lenn006lotg01_01-0038.xhtml"/>
+<reference type="text" title="Chapter 39" href="lenn006lotg01_01-0039.xhtml"/>
+<reference type="text" title="Chapter 40" href="lenn006lotg01_01-0040.xhtml"/>
+<reference type="text" title="Chapter 41" href="lenn006lotg01_01-0041.xhtml"/>
+<reference type="text" title="Chapter 42" href="lenn006lotg01_01-0042.xhtml"/>
+<reference type="text" title="Chapter 43" href="lenn006lotg01_01-0043.xhtml"/>
+<reference type="text" title="Chapter 44" href="lenn006lotg01_01-notes.xhtml"/>
+</guide>
+</package>
