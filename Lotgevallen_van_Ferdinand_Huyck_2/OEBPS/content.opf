@@ -1,163 +1,130 @@
-<?xml version="1.0"?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="e0000000000000" version="3.0" prefix="a11y: http://www.idpf.org/epub/vocab/package/a11y/#" xml:lang="en">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-<dc:title>De lotgevallen van Ferdinand Huyck 2</dc:title>
-<dc:date>2011-05-06</dc:date>
-<dc:creator>Jacob van Lennep</dc:creator>
-<dc:language>nl</dc:language>
-<dc:rights></dc:rights>
-<dc:publisher></dc:publisher>
-<dc:identifier id="bookid">e6ae2224-f09b-11eb-9a03-0242ac130003</dc:identifier>
+<dc:title>Alice's Adventures in Wonderland 3</dc:title>
+<dc:creator>Lewis Carroll, John Tenniel</dc:creator>
+<dc:publisher>Wikisource / KB / Newgen Knowledgeworks</dc:publisher>
+<dc:rights>Creative Commons BY-SA 3.0</dc:rights>
+<dc:identifier id="e0000000000000">0000000000000</dc:identifier>
+<dc:language>en</dc:language>
+<dc:date>2021</dc:date>
+<dc:format>176 pages</dc:format>
+<dc:type>Text</dc:type>
+<dc:source id="isbn">0000000000000</dc:source>
+<meta refines="#isbn" property="source-of">pagination</meta>
+<meta property="dcterms:modified">2021-06-25T12:00:00Z</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual,visual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessibilityFeature">alternativeText</meta>
+<meta property="schema:accessibilityFeature">displayTransformability</meta>
+<meta property="schema:accessibilityFeature">printPageNumbers</meta>
+<meta property="schema:accessibilityFeature">readingOrder</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityHazard">none</meta>
+<meta property="schema:accessibilitySummary">This publication meets the EPUB Accessibility requirements and it also meets the Web Content Accessibility Guidelines (WCAG-AA). It is screen-reader friendly and is accessible to persons with disabilities. A very complex book with lot of images, lots of list items and complex formatting, which are defined with accessible structural markup. This book contains various accessibility features such as alternative text for images, table of content, page-list, landmark, reading order, Structural Navigation and semantic structure.</meta>
+<meta name="cover" content="cover-image" />
 </metadata>
 <manifest>
-<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-<item id="epubcss" href="template.css" media-type="text/css"/>
-<item id="CharisSILB" href="fonts/CharisSILB.ttf" media-type="font/ttf"/>
-<item id="CharisSILBI" href="fonts/CharisSILBI.ttf" media-type="font/ttf"/>
-<item id="CharisSILI" href="fonts/CharisSILI.ttf" media-type="font/ttf"/>
-<item id="CharisSILR" href="fonts/CharisSILR.ttf" media-type="font/ttf"/>
-<item id="CharisSILR_sc" href="fonts/CharisSILR_sc.ttf" media-type="font/ttf"/>
-<item id="lenn006lotg01ill01" href="images/lenn006lotg01ill01.gif" media-type="image/gif"/>
-<item id="lenn006lotg01ill02" href="images/lenn006lotg01ill02.gif" media-type="image/gif"/>
-<item id="lenn006lotg01_01_tpg" href="images/lenn006lotg01_01_tpg.gif" media-type="image/gif"/>
-<item id="U20B0" href="images/U20B0.gif" media-type="image/gif"/>
-<item id="lenn006lotg01_01-0001" href="lenn006lotg01_01-0001.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0002" href="lenn006lotg01_01-0002.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0003" href="lenn006lotg01_01-0003.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0004" href="lenn006lotg01_01-0004.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0005" href="lenn006lotg01_01-0005.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0006" href="lenn006lotg01_01-0006.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0007" href="lenn006lotg01_01-0007.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0008" href="lenn006lotg01_01-0008.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0009" href="lenn006lotg01_01-0009.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0010" href="lenn006lotg01_01-0010.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0011" href="lenn006lotg01_01-0011.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0012" href="lenn006lotg01_01-0012.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0013" href="lenn006lotg01_01-0013.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0014" href="lenn006lotg01_01-0014.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0015" href="lenn006lotg01_01-0015.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0016" href="lenn006lotg01_01-0016.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0017" href="lenn006lotg01_01-0017.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0018" href="lenn006lotg01_01-0018.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0019" href="lenn006lotg01_01-0019.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0020" href="lenn006lotg01_01-0020.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0021" href="lenn006lotg01_01-0021.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0022" href="lenn006lotg01_01-0022.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0023" href="lenn006lotg01_01-0023.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0024" href="lenn006lotg01_01-0024.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0025" href="lenn006lotg01_01-0025.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0026" href="lenn006lotg01_01-0026.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0027" href="lenn006lotg01_01-0027.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0028" href="lenn006lotg01_01-0028.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0029" href="lenn006lotg01_01-0029.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0030" href="lenn006lotg01_01-0030.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0031" href="lenn006lotg01_01-0031.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0032" href="lenn006lotg01_01-0032.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0033" href="lenn006lotg01_01-0033.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0034" href="lenn006lotg01_01-0034.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0035" href="lenn006lotg01_01-0035.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0036" href="lenn006lotg01_01-0036.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0037" href="lenn006lotg01_01-0037.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0038" href="lenn006lotg01_01-0038.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0039" href="lenn006lotg01_01-0039.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0040" href="lenn006lotg01_01-0040.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0041" href="lenn006lotg01_01-0041.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0042" href="lenn006lotg01_01-0042.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-0043" href="lenn006lotg01_01-0043.xhtml" media-type="application/xhtml+xml"/>
-<item id="lenn006lotg01_01-notes" href="lenn006lotg01_01-notes.xhtml" media-type="application/xhtml+xml"/>
-<item id="logos" href="logos/logos.jpg" media-type="image/jpeg"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+<item id="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+<item id="stylesheet" href="styles/main.css" media-type="text/css" />
+
+<item id="cover" href="xhtml/c0a_Alice_s_Adventures_in_Wonderland__1866_cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_00" href="xhtml/c00_Alice_s_Adventures_in_Wonderland__1866__title.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_01" href="xhtml/c00a_Alice_s_Adventures_in_Wonderland__1866_.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_02" href="xhtml/c00b_Alice_s_Adventures_in_Wonderland__1866_Front_Matter.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_03" href="xhtml/c00c_Alice_s_Adventures_in_Wonderland__1866_Contents.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_04" href="xhtml/c00d_Alice_s_Adventures_in_Wonderland__1866_Copyright.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_05" href="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_06" href="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_07" href="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_08" href="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_09" href="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_10" href="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_11" href="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_12" href="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_13" href="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_14" href="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_15" href="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_16" href="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml" media-type="application/xhtml+xml"/>
+<item id="nav_17" href="xhtml/c13_Alice_s_Adventures_in_Wonderland__about.xhtml" media-type="application/xhtml+xml"/>
+
+<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+<item id="imag01" href="images/Accueil_scribe.png" media-type="image/png" />
+<item id="imag02" href="images/c13_PD_icon.svg_48px_PD_icon.svg.png" media-type="image/png" />
+<item id="imag03" href="images/c14_Queen_of_Hearts.jpg_400px_Queen_of_Hearts.jpg" media-type="image/jpeg" />
+<item id="imag04" href="images/c15_Alice_white_rabbit.jpg_250px_Alice_white_rabbit.jpg" media-type="image/jpeg" />
+<item id="imag05" href="images/c16_Alice_par_John_Tenniel_03.png_200px_Alice_par_John_Tenniel_03.png" media-type="image/png" />
+<item id="imag06" href="images/c17_Alice_par_John_Tenniel_04.png_200px_Alice_par_John_Tenniel_04.png" media-type="image/png" />
+<item id="imag07" href="images/c18_Alice_par_John_Tenniel_05.png_180px_Alice_par_John_Tenniel_05.png" media-type="image/png" />
+<item id="imag08" href="images/c19_Alice_par_John_Tenniel_06.png_400px_Alice_par_John_Tenniel_06.png" media-type="image/png" />
+<item id="imag09" href="images/c20_Alice_par_John_Tenniel_07.png_300px_Alice_par_John_Tenniel_07.png" media-type="image/png" />
+<item id="imag10" href="images/c21_Alice_par_John_Tenniel_08.png_350px_Alice_par_John_Tenniel_08.png" media-type="image/png" />
+<item id="imag11" href="images/c22_Alice_par_John_Tenniel_10.png_400px_Alice_par_John_Tenniel_10.png" media-type="image/png" />
+<item id="imag12" href="images/c23_Alice_par_John_Tenniel_09.png_400px_Alice_par_John_Tenniel_09.png" media-type="image/png" />
+<item id="imag13" href="images/c24_Alice_par_John_Tenniel_11.png_400px_Alice_par_John_Tenniel_11.png" media-type="image/png" />
+<item id="imag14" href="images/c25_Alice_par_John_Tenniel_12.png_180px_Alice_par_John_Tenniel_12.png" media-type="image/png" />
+<item id="imag15" href="images/c26_Alice_par_John_Tenniel_13.png_150px_Alice_par_John_Tenniel_13.png" media-type="image/png" />
+<item id="imag16" href="images/c27_Alice_par_John_Tenniel_14.png_400px_Alice_par_John_Tenniel_14.png" media-type="image/png" />
+<item id="imag17" href="images/c28_Alice_05a_1116x1492.jpg_350px_Alice_05a_1116x1492.jpg" media-type="image/jpeg" />
+<item id="imag18" href="images/c29_Alice_par_John_Tenniel_16.png_400px_Alice_par_John_Tenniel_16.png" media-type="image/png" />
+<item id="imag19" href="images/c30_enteuer_im_Wunderland_Carroll_pic_17.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_17.jpg" media-type="image/jpeg" />
+<item id="imag20" href="images/c31_enteuer_im_Wunderland_Carroll_pic_18.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_18.jpg" media-type="image/jpeg" />
+<item id="imag21" href="images/c32_enteuer_im_Wunderland_Carroll_pic_19.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_19.jpg" media-type="image/jpeg" />
+<item id="imag22" href="images/c33_ation_d_origine__1865___par_John_Tenniel_du_roman_de_Lewis_Carroll__Alice_au_pays_des_merveilles.png" media-type="image/png" />
+<item id="imag23" href="images/c34_Alice_par_John_Tenniel_21.png_400px_Alice_par_John_Tenniel_21.png" media-type="image/png" />
+<item id="imag24" href="images/c35_Alice_par_John_Tenniel_22.png_200px_Alice_par_John_Tenniel_22.png" media-type="image/png" />
+<item id="imag25" href="images/c36_Alice_par_John_Tenniel_23.png_400px_Alice_par_John_Tenniel_23.png" media-type="image/png" />
+<item id="imag26" href="images/c37_Alice_par_John_Tenniel_24.png_400px_Alice_par_John_Tenniel_24.png" media-type="image/png" />
+<item id="imag27" href="images/c38_Alice_par_John_Tenniel_25.png_400px_Alice_par_John_Tenniel_25.png" media-type="image/png" />
+<item id="imag28" href="images/c39_Alice_par_John_Tenniel_26.png_275px_Alice_par_John_Tenniel_26.png" media-type="image/png" />
+<item id="imag29" href="images/c40_Alice_par_John_Tenniel_27.png_350px_Alice_par_John_Tenniel_27.png" media-type="image/png" />
+<item id="imag30" href="images/c41_Alice_par_John_Tenniel_28.png_250px_Alice_par_John_Tenniel_28.png" media-type="image/png" />
+<item id="imag31" href="images/c42_Alice_par_John_Tenniel_29.png_400px_Alice_par_John_Tenniel_29.png" media-type="image/png" />
+<item id="imag32" href="images/c43_Alice_par_John_Tenniel_30.png_200px_Alice_par_John_Tenniel_30.png" media-type="image/png" />
+<item id="imag33" href="images/c44_Alice_par_John_Tenniel_31.png_350px_Alice_par_John_Tenniel_31.png" media-type="image/png" />
+<item id="imag34" href="images/c45_Alice_par_John_Tenniel_32.png_225px_Alice_par_John_Tenniel_32.png" media-type="image/png" />
+<item id="imag35" href="images/c46_Gryphon.png_400px_Gryphon.png" media-type="image/png" />
+<item id="imag36" href="images/c47_Alice_par_John_Tenniel_34.png_400px_Alice_par_John_Tenniel_34.png" media-type="image/png" />
+<item id="imag37" href="images/c48_Alice_par_John_Tenniel_35.png_350px_Alice_par_John_Tenniel_35.png" media-type="image/png" />
+<item id="imag38" href="images/c49_Alice_par_John_Tenniel_36.png_225px_Alice_par_John_Tenniel_36.png" media-type="image/png" />
+<item id="imag39" href="images/c50_Alice_par_John_Tenniel_37.png_250px_Alice_par_John_Tenniel_37.png" media-type="image/png" />
+<item id="imag40" href="images/c51_Alice_par_John_Tenniel_38.png_200px_Alice_par_John_Tenniel_38.png" media-type="image/png" />
+<item id="imag41" href="images/c52_Alice_par_John_Tenniel_39.png_300px_Alice_par_John_Tenniel_39.png" media-type="image/png" />
+<item id="imag42" href="images/c53_Alice_par_John_Tenniel_40.png_400px_Alice_par_John_Tenniel_40.png" media-type="image/png" />
+<item id="imag43" href="images/c54_Alice_par_John_Tenniel_41.png_400px_Alice_par_John_Tenniel_41.png" media-type="image/png" />
+<item id="imag44" href="images/c55_Alice_par_John_Tenniel_42.png_400px_Alice_par_John_Tenniel_42.png" media-type="image/png" />
+<item id="imag44a" href="images/common.jpg" media-type="image/jpeg" />
 </manifest>
+
+
 <spine toc="ncx">
-<itemref idref="lenn006lotg01_01-0001"/>
-<itemref idref="lenn006lotg01_01-0002"/>
-<itemref idref="lenn006lotg01_01-0003"/>
-<itemref idref="lenn006lotg01_01-0004"/>
-<itemref idref="lenn006lotg01_01-0005"/>
-<itemref idref="lenn006lotg01_01-0006"/>
-<itemref idref="lenn006lotg01_01-0007"/>
-<itemref idref="lenn006lotg01_01-0008"/>
-<itemref idref="lenn006lotg01_01-0009"/>
-<itemref idref="lenn006lotg01_01-0010"/>
-<itemref idref="lenn006lotg01_01-0011"/>
-<itemref idref="lenn006lotg01_01-0012"/>
-<itemref idref="lenn006lotg01_01-0013"/>
-<itemref idref="lenn006lotg01_01-0014"/>
-<itemref idref="lenn006lotg01_01-0015"/>
-<itemref idref="lenn006lotg01_01-0016"/>
-<itemref idref="lenn006lotg01_01-0017"/>
-<itemref idref="lenn006lotg01_01-0018"/>
-<itemref idref="lenn006lotg01_01-0019"/>
-<itemref idref="lenn006lotg01_01-0020"/>
-<itemref idref="lenn006lotg01_01-0021"/>
-<itemref idref="lenn006lotg01_01-0022"/>
-<itemref idref="lenn006lotg01_01-0023"/>
-<itemref idref="lenn006lotg01_01-0024"/>
-<itemref idref="lenn006lotg01_01-0025"/>
-<itemref idref="lenn006lotg01_01-0026"/>
-<itemref idref="lenn006lotg01_01-0027"/>
-<itemref idref="lenn006lotg01_01-0028"/>
-<itemref idref="lenn006lotg01_01-0029"/>
-<itemref idref="lenn006lotg01_01-0030"/>
-<itemref idref="lenn006lotg01_01-0031"/>
-<itemref idref="lenn006lotg01_01-0032"/>
-<itemref idref="lenn006lotg01_01-0033"/>
-<itemref idref="lenn006lotg01_01-0034"/>
-<itemref idref="lenn006lotg01_01-0035"/>
-<itemref idref="lenn006lotg01_01-0036"/>
-<itemref idref="lenn006lotg01_01-0037"/>
-<itemref idref="lenn006lotg01_01-0038"/>
-<itemref idref="lenn006lotg01_01-0039"/>
-<itemref idref="lenn006lotg01_01-0040"/>
-<itemref idref="lenn006lotg01_01-0041"/>
-<itemref idref="lenn006lotg01_01-0042"/>
-<itemref idref="lenn006lotg01_01-0043"/>
-<itemref idref="lenn006lotg01_01-notes"/>
+<itemref idref="cover" />
+<itemref idref="nav_00" />
+<itemref idref="nav_01" />
+<itemref idref="nav_02" />
+<itemref idref="nav_03" />
+<itemref idref="nav_04" />
+<itemref idref="nav_05" />
+<itemref idref="nav_06" />
+<itemref idref="nav_07" />
+<itemref idref="nav_08" />
+<itemref idref="nav_09" />
+<itemref idref="nav_10" />
+<itemref idref="nav_11" />
+<itemref idref="nav_12" />
+<itemref idref="nav_13" />
+<itemref idref="nav_14" />
+<itemref idref="nav_15" />
+<itemref idref="nav_16" />
+<itemref idref="nav_17" />
 </spine>
 <guide>
-<reference type="cover" href="images/lenn006lotg01_01_tpg.gif"/>
-<reference type="text" title="Chapter 1" href="lenn006lotg01_01-0001.xhtml"/>
-<reference type="text" title="Chapter 2" href="lenn006lotg01_01-0002.xhtml"/>
-<reference type="text" title="Chapter 3" href="lenn006lotg01_01-0003.xhtml"/>
-<reference type="text" title="Chapter 4" href="lenn006lotg01_01-0004.xhtml"/>
-<reference type="text" title="Chapter 5" href="lenn006lotg01_01-0005.xhtml"/>
-<reference type="text" title="Chapter 6" href="lenn006lotg01_01-0006.xhtml"/>
-<reference type="text" title="Chapter 7" href="lenn006lotg01_01-0007.xhtml"/>
-<reference type="text" title="Chapter 8" href="lenn006lotg01_01-0008.xhtml"/>
-<reference type="text" title="Chapter 9" href="lenn006lotg01_01-0009.xhtml"/>
-<reference type="text" title="Chapter 10" href="lenn006lotg01_01-0010.xhtml"/>
-<reference type="text" title="Chapter 11" href="lenn006lotg01_01-0011.xhtml"/>
-<reference type="text" title="Chapter 12" href="lenn006lotg01_01-0012.xhtml"/>
-<reference type="text" title="Chapter 13" href="lenn006lotg01_01-0013.xhtml"/>
-<reference type="text" title="Chapter 14" href="lenn006lotg01_01-0014.xhtml"/>
-<reference type="text" title="Chapter 15" href="lenn006lotg01_01-0015.xhtml"/>
-<reference type="text" title="Chapter 16" href="lenn006lotg01_01-0016.xhtml"/>
-<reference type="text" title="Chapter 17" href="lenn006lotg01_01-0017.xhtml"/>
-<reference type="text" title="Chapter 18" href="lenn006lotg01_01-0018.xhtml"/>
-<reference type="text" title="Chapter 19" href="lenn006lotg01_01-0019.xhtml"/>
-<reference type="text" title="Chapter 20" href="lenn006lotg01_01-0020.xhtml"/>
-<reference type="text" title="Chapter 21" href="lenn006lotg01_01-0021.xhtml"/>
-<reference type="text" title="Chapter 22" href="lenn006lotg01_01-0022.xhtml"/>
-<reference type="text" title="Chapter 23" href="lenn006lotg01_01-0023.xhtml"/>
-<reference type="text" title="Chapter 24" href="lenn006lotg01_01-0024.xhtml"/>
-<reference type="text" title="Chapter 25" href="lenn006lotg01_01-0025.xhtml"/>
-<reference type="text" title="Chapter 26" href="lenn006lotg01_01-0026.xhtml"/>
-<reference type="text" title="Chapter 27" href="lenn006lotg01_01-0027.xhtml"/>
-<reference type="text" title="Chapter 28" href="lenn006lotg01_01-0028.xhtml"/>
-<reference type="text" title="Chapter 29" href="lenn006lotg01_01-0029.xhtml"/>
-<reference type="text" title="Chapter 30" href="lenn006lotg01_01-0030.xhtml"/>
-<reference type="text" title="Chapter 31" href="lenn006lotg01_01-0031.xhtml"/>
-<reference type="text" title="Chapter 32" href="lenn006lotg01_01-0032.xhtml"/>
-<reference type="text" title="Chapter 33" href="lenn006lotg01_01-0033.xhtml"/>
-<reference type="text" title="Chapter 34" href="lenn006lotg01_01-0034.xhtml"/>
-<reference type="text" title="Chapter 35" href="lenn006lotg01_01-0035.xhtml"/>
-<reference type="text" title="Chapter 36" href="lenn006lotg01_01-0036.xhtml"/>
-<reference type="text" title="Chapter 37" href="lenn006lotg01_01-0037.xhtml"/>
-<reference type="text" title="Chapter 38" href="lenn006lotg01_01-0038.xhtml"/>
-<reference type="text" title="Chapter 39" href="lenn006lotg01_01-0039.xhtml"/>
-<reference type="text" title="Chapter 40" href="lenn006lotg01_01-0040.xhtml"/>
-<reference type="text" title="Chapter 41" href="lenn006lotg01_01-0041.xhtml"/>
-<reference type="text" title="Chapter 42" href="lenn006lotg01_01-0042.xhtml"/>
-<reference type="text" title="Chapter 43" href="lenn006lotg01_01-0043.xhtml"/>
-<reference type="text" title="Chapter 44" href="lenn006lotg01_01-notes.xhtml"/>
+<reference type="cover" title="Cover" href="xhtml/c0a_Alice_s_Adventures_in_Wonderland__1866_cover.xhtml"/>
+<reference type="text" title="Title Page" href="xhtml/c00a_Alice_s_Adventures_in_Wonderland__1866_.xhtml"/>
+<reference type="toc" title="Contents" href="xhtml/c00c_Alice_s_Adventures_in_Wonderland__1866_Contents.xhtml"/>
 </guide>
 </package>

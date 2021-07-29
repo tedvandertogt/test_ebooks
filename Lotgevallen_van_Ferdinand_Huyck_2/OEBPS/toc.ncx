@@ -1,351 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd" >
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
 <head>
-<meta content="0" name="dtb:totalPageCount"/>
+<meta name="dtb:uid" content="0000000000000" />
+<meta name="dtb:depth" content="i" />
+<meta name="dtb:totalPageCount" content="176" />
+<meta name="dtb:maxPageNumber" content="176" />
 </head>
-<docTitle><text>De lotgevallen van Ferdinand Huyck</text></docTitle>
-<docAuthor><text>Jacob van Lennep</text></docAuthor>
+<docTitle><text>Alice's Adventures in Wonderland</text></docTitle>
+<docAuthor><text>Lewis Carroll, John Tenniel</text></docAuthor>
 <navMap>
-<navPoint id="navpoint-1" playOrder="1">
-<navLabel><text>De lotgevallen van Ferdinand Huyck</text></navLabel>
-<content src="lenn006lotg01_01-0001.xhtml#toc-anchor"/>
-</navPoint>
-<navPoint id="navpoint-2" playOrder="2">
-<navLabel><text>[Eerste deel]</text></navLabel>
-<content src="lenn006lotg01_01-0002.xhtml#toc-anchor1"/>                                            
-<navPoint id="navpoint-3" playOrder="3">
-<navLabel><text>Brief van den Heer P. aan den Uitgever, tot inleiding dienende.</text></navLabel>
-<content src="lenn006lotg01_01-0002.xhtml#toc-anchor2"/>                                            
-</navPoint>
-<navPoint id="navpoint-4" playOrder="4">
-<navLabel><text>[Woord van de uitgever]</text></navLabel>
-<content src="lenn006lotg01_01-0003.xhtml#toc-anchor3"/>                                            
-</navPoint>
-<navPoint id="navpoint-5" playOrder="5">
-<navLabel><text>Eerste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0004.xhtml#toc-anchor4"/>                                            
-<navPoint id="navpoint-6" playOrder="6">
-<navLabel><text>Waarin, onder meer andere wetenswaardige zaken, het portret van den held dezer geschiedenis gevonden wordt.</text></navLabel>
-<content src="lenn006lotg01_01-0004.xhtml#toc-anchor5"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-7" playOrder="7">
-<navLabel><text>Tweede hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0005.xhtml#toc-anchor6"/>                                            
-<navPoint id="navpoint-8" playOrder="8">
-<navLabel><text>Waarin men lezen zal, wat in en voor de herberg te Zoest voorviel.</text></navLabel>
-<content src="lenn006lotg01_01-0005.xhtml#toc-anchor7"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-9" playOrder="9">
-<navLabel><text>Derde hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0006.xhtml#toc-anchor8"/>                                            
-<navPoint id="navpoint-10" playOrder="10">
-<navLabel><text>Waarin wordt bewezen, hoe gevaarlijk het is zonder parapluie uit te gaan, en de beschrijving gevonden van een mooi meisje en een mooie koepel.</text></navLabel>
-<content src="lenn006lotg01_01-0006.xhtml#toc-anchor9"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-11" playOrder="11">
-<navLabel><text>Vierde hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0007.xhtml#toc-anchor10"/>                                            
-<navPoint id="navpoint-12" playOrder="12">
-<navLabel><text>'t Geen verhaalt wat er verder in de koepel voorviel.</text></navLabel>
-<content src="lenn006lotg01_01-0007.xhtml#toc-anchor11"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-13" playOrder="13">
-<navLabel><text>Vijfde hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0008.xhtml#toc-anchor12"/>                                            
-<navPoint id="navpoint-14" playOrder="14">
-<navLabel><text>Hetwelk bange lieden bij avond niet moeten lezen.</text></navLabel>
-<content src="lenn006lotg01_01-0008.xhtml#toc-anchor13"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-15" playOrder="15">
-<navLabel><text>Zesde hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0009.xhtml#toc-anchor14"/>                                            
-<navPoint id="navpoint-16" playOrder="16">
-<navLabel><text>Waarin onze held voor de tweede reis op denzelfden dag gevaar loopt van zijn hart te verliezen.</text></navLabel>
-<content src="lenn006lotg01_01-0009.xhtml#toc-anchor15"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-17" playOrder="17">
-<navLabel><text>Zevende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0010.xhtml#toc-anchor16"/>                                            
-<navPoint id="navpoint-18" playOrder="18">
-<navLabel><text>Vermeldende, wat de Heer Bos aan Ferdinand vertelde, en hoe deze per slot nog even wijs bleef, gelijk ook het geval met den lezer zal zijn.</text></navLabel>
-<content src="lenn006lotg01_01-0010.xhtml#toc-anchor17"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-19" playOrder="19">
-<navLabel><text>Achtste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0011.xhtml#toc-anchor18"/>                                            
-<navPoint id="navpoint-20" playOrder="20">
-<navLabel><text>Waarin meer geredeneerd dan gedaan wordt.</text></navLabel>
-<content src="lenn006lotg01_01-0011.xhtml#toc-anchor19"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-21" playOrder="21">
-<navLabel><text>Negende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0012.xhtml#toc-anchor20"/>                                            
-<navPoint id="navpoint-22" playOrder="22">
-<navLabel><text>Behelzende het verhaal eener schuitreis van Naarden naar Amsterdam.</text></navLabel>
-<content src="lenn006lotg01_01-0012.xhtml#toc-anchor21"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-23" playOrder="23">
-<navLabel><text>Tiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0013.xhtml#toc-anchor22"/>                                            
-<navPoint id="navpoint-24" playOrder="24">
-<navLabel><text>Waarin verhaald wordt, hoe Ferdinand te huis kwam en hoe hij insliep, welk voorbeeld de lezer mag volgen, zoo het hem goeddunkt.</text></navLabel>
-<content src="lenn006lotg01_01-0013.xhtml#toc-anchor23"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-25" playOrder="25">
-<navLabel><text>Elfde hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0014.xhtml#toc-anchor24"/>                                            
-<navPoint id="navpoint-26" playOrder="26">
-<navLabel><text>Hetwelk ettelijke Justitie-geheimen aan den dag brengt.</text></navLabel>
-<content src="lenn006lotg01_01-0014.xhtml#toc-anchor25"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-27" playOrder="27">
-<navLabel><text>Twaalfde hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0015.xhtml#toc-anchor26"/>                                            
-<navPoint id="navpoint-28" playOrder="28">
-<navLabel><text>Waarin men nadere kennis maakt met de leden der familie, en waarin tante Letje een confituurvlek op haar halsdoek bekomt.</text></navLabel>
-<content src="lenn006lotg01_01-0015.xhtml#toc-anchor27"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-29" playOrder="29">
-<navLabel><text>Dertiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0016.xhtml#toc-anchor28"/>                                            
-<navPoint id="navpoint-30" playOrder="30">
-<navLabel><text>Behelzende, hoe Susanna en Ferdinand harrewarren, en hoe de laatste in een welkomstdicht verheerlijkt wordt.</text></navLabel>
-<content src="lenn006lotg01_01-0016.xhtml#toc-anchor29"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-31" playOrder="31">
-<navLabel><text>Veertiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0017.xhtml#toc-anchor30"/>                                            
-<navPoint id="navpoint-32" playOrder="32">
-<navLabel><text>Waarin Ferdinand op cognacq onthaald en tegen wil en dank in nieuwe avonturen gesleept wordt.</text></navLabel>
-<content src="lenn006lotg01_01-0017.xhtml#toc-anchor31"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-33" playOrder="33">
-<navLabel><text>Vijftiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0018.xhtml#toc-anchor32"/>                                            
-<navPoint id="navpoint-34" playOrder="34">
-<navLabel><text>Vermeldende, hoe Ferdinand en Susanna uit logeeren gingen en wat er op Heizicht gebeurde.</text></navLabel>
-<content src="lenn006lotg01_01-0018.xhtml#toc-anchor33"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-35" playOrder="35">
-<navLabel><text>Zestiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0019.xhtml#toc-anchor34"/>                                            
-<navPoint id="navpoint-36" playOrder="36">
-<navLabel><text>Waarin verhaald wordt, wien Ferdinand in de Kerk zag: en welke gasten op Heizicht kwamen eten.</text></navLabel>
-<content src="lenn006lotg01_01-0019.xhtml#toc-anchor35"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-37" playOrder="37">
-<navLabel><text>Zeventiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0020.xhtml#toc-anchor36"/>                                            
-<navPoint id="navpoint-38" playOrder="38">
-<navLabel><text>Verhalende, hoe Zwarte Piet Ferdinand met een commissie belastte, en hoe Susanna een grooten koek trekt.</text></navLabel>
-<content src="lenn006lotg01_01-0020.xhtml#toc-anchor37"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-39" playOrder="39">
-<navLabel><text>Achttiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0021.xhtml#toc-anchor38"/>                                            
-<navPoint id="navpoint-40" playOrder="40">
-<navLabel><text>Waarin Ferdinand op zijn kantoor gëinstalleerd, en, als Krelis Louwen, op een pöeetenmaal wordt genoodigd.</text></navLabel>
-<content src="lenn006lotg01_01-0021.xhtml#toc-anchor39"/>
-</navPoint>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-41" playOrder="41">
-<navLabel><text>[Tweede deel]</text></navLabel>
-<content src="lenn006lotg01_01-0022.xhtml#toc-anchor40"/>                                            
-<navPoint id="navpoint-42" playOrder="42">
-<navLabel><text>Negentiende hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0022.xhtml#toc-anchor41"/>                                            
-<navPoint id="navpoint-43" playOrder="43">
-<navLabel><text>Bevattende 't geen er op de dichterlijke samenkomst bij Helding verhandeld werd.</text></navLabel>
-<content src="lenn006lotg01_01-0022.xhtml#toc-anchor42"/>
-</navPoint>                                                                                                                                    
-</navPoint>
-<navPoint id="navpoint-44" playOrder="44">
-<navLabel><text>Twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0023.xhtml#toc-anchor43"/>                                            
-<navPoint id="navpoint-45" playOrder="45">
-<navLabel><text>Waarin verklaard wordt, wie de Heer in 't karmozijn was, en hoe deerlijk Ferdinand er zich in werkte.-</text></navLabel>
-<content src="lenn006lotg01_01-0023.xhtml#toc-anchor44"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-46" playOrder="46">
-<navLabel><text>Een-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0024.xhtml#toc-anchor45"/>                                            
-<navPoint id="navpoint-47" playOrder="47">
-<navLabel><text>Waarin eenige oude kennissen weder op het tooneel verschijnen en een paar nieuwe worden ingevoerd.</text></navLabel>
-<content src="lenn006lotg01_01-0024.xhtml#toc-anchor46"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-48" playOrder="48">
-<navLabel><text>Twee-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0025.xhtml#toc-anchor47"/>                                            
-<navPoint id="navpoint-49" playOrder="49">
-<navLabel><text>Hetwelk aantoont, dat men niet naar de Oost-Indiën behoeft te varen, om schipbreuk te lijden.</text></navLabel>
-<content src="lenn006lotg01_01-0025.xhtml#toc-anchor48"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-50" playOrder="50">
-<navLabel><text>Drie-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0026.xhtml#toc-anchor49"/>                                            
-<navPoint id="navpoint-51" playOrder="51">
-<navLabel><text>Vermeldende, hoe dames voor spoken werden aangezien, en wat de schipbreukelingen al zoo verder deden om een verkoudheid voor te komen.</text></navLabel>
-<content src="lenn006lotg01_01-0026.xhtml#toc-anchor50"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-52" playOrder="52">
-<navLabel><text>Vier-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0027.xhtml#toc-anchor51"/>                                            
-<navPoint id="navpoint-53" playOrder="53">
-<navLabel><text>Hetwelk over 't geheel van een vrij sentimenteelen aart is; doch vrij slaperig eindigt.</text></navLabel>
-<content src="lenn006lotg01_01-0027.xhtml#toc-anchor52"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-54" playOrder="54">
-<navLabel><text>Vijf-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0028.xhtml#toc-anchor53"/>                                            
-<navPoint id="navpoint-55" playOrder="55">
-<navLabel><text>Hetwelk een vervolg is op het vier-en-twintigste.</text></navLabel>
-<content src="lenn006lotg01_01-0028.xhtml#toc-anchor54"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-56" playOrder="56">
-<navLabel><text>Zes-en - twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0029.xhtml#toc-anchor55"/>                                            
-<navPoint id="navpoint-57" playOrder="57">
-<navLabel><text>Waarin geleerd wordt, hoe men best oude paarden verkoopt, en jonge bederft.</text></navLabel>
-<content src="lenn006lotg01_01-0029.xhtml#toc-anchor56"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-58" playOrder="58">
-<navLabel><text>Zeven-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0030.xhtml#toc-anchor57"/>                                            
-<navPoint id="navpoint-59" playOrder="59">
-<navLabel><text>Waarin onze held in nieuwe onaangenaamheden wordt gewikkeld.</text></navLabel>
-<content src="lenn006lotg01_01-0030.xhtml#toc-anchor58"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-60" playOrder="60">
-<navLabel><text>Acht-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0031.xhtml#toc-anchor59"/>                                            
-<navPoint id="navpoint-61" playOrder="61">
-<navLabel><text>Waarin leelijke donderbuien boven het hoofd van Ferdinand samenpakken.</text></navLabel>
-<content src="lenn006lotg01_01-0031.xhtml#toc-anchor60"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-62" playOrder="62">
-<navLabel><text>Negen-en-twintigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0032.xhtml#toc-anchor61"/>                                            
-<navPoint id="navpoint-63" playOrder="63">
-<navLabel><text>Vermeldende wat er ten huize van den Notaris Bouvelt voorviel.</text></navLabel>
-<content src="lenn006lotg01_01-0032.xhtml#toc-anchor62"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-64" playOrder="64">
-<navLabel><text>Dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0033.xhtml#toc-anchor63"/>                                            
-<navPoint id="navpoint-65" playOrder="65">
-<navLabel><text>Hetgeen langer dan het voorgaande, en niet meer of minder belangrijk wezen zal.</text></navLabel>
-<content src="lenn006lotg01_01-0033.xhtml#toc-anchor64"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-66" playOrder="66">
-<navLabel><text>Een-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0034.xhtml#toc-anchor65"/>                                            
-<navPoint id="navpoint-67" playOrder="67">
-<navLabel><text>Waarin het gedrag van Mejuffrouw Blaek ten opzichte van Ferdinand wordt verklaard en de vader van Amelia weder op de proppen komt.</text></navLabel>
-<content src="lenn006lotg01_01-0034.xhtml#toc-anchor66"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-68" playOrder="68">
-<navLabel><text>Twee-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0035.xhtml#toc-anchor67"/>                                            
-<navPoint id="navpoint-69" playOrder="69">
-<navLabel><text>Waarin overtuigend bewezen wordt, dat de behendigste vogelaar ook wel eens vogels laat ontsnappen.</text></navLabel>
-<content src="lenn006lotg01_01-0035.xhtml#toc-anchor68"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-70" playOrder="70">
-<navLabel><text>Drie-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0036.xhtml#toc-anchor69"/>                                            
-<navPoint id="navpoint-71" playOrder="71">
-<navLabel><text>Vermeldende, wie Ferdinand in den beurtman aantrof, hoe hij op Ter Schelling aankwam, en welke zonderlinge ontmoeting hij aldaar had.</text></navLabel>
-<content src="lenn006lotg01_01-0036.xhtml#toc-anchor70"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-72" playOrder="72">
-<navLabel><text>Vier-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0037.xhtml#toc-anchor71"/>                                            
-<navPoint id="navpoint-73" playOrder="73">
-<navLabel><text>Waarin verhaald wordt, hoe de thee aan boord van de Kjöbenhavn werd gebracht, en den lezer vele verrassingen worden voorbereid.</text></navLabel>
-<content src="lenn006lotg01_01-0037.xhtml#toc-anchor72"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-74" playOrder="74">
-<navLabel><text>Vijf-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0038.xhtml#toc-anchor73"/>                                            
-<navPoint id="navpoint-75" playOrder="75">
-<navLabel><text>Waarin de geschiedenissen van de Heeren Bos, van Beveren, den Vliesridder, den Baron van Lintz, den Graaf van Talavera, den Zeeroover Don Manöel enz. enz. worden verhandeld, en hetgeen evenwel, wat de lengte betreft, mee zal vallen.</text></navLabel>
-<content src="lenn006lotg01_01-0038.xhtml#toc-anchor74"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-76" playOrder="76">
-<navLabel><text>Zes-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0039.xhtml#toc-anchor75"/>                                            
-<navPoint id="navpoint-77" playOrder="77">
-<navLabel><text>Waarin zich het oude spreekwoord bevestigd vindt, dat men geen hei moet roepen, eer men over den dam is.</text></navLabel>
-<content src="lenn006lotg01_01-0039.xhtml#toc-anchor76"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-78" playOrder="78">
-<navLabel><text>Zeven-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0040.xhtml#toc-anchor77"/>                                            
-<navPoint id="navpoint-79" playOrder="79">
-<navLabel><text>Waarin treurige en schrikwekkende tooneelen voorkomen, gelijk men die somtijds in het dagelijksche leven, maar zeer dikwijls in romans en vercierde geschiedenissen aantreft.</text></navLabel>
-<content src="lenn006lotg01_01-0040.xhtml#toc-anchor78"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-80" playOrder="80">
-<navLabel><text>Acht-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0041.xhtml#toc-anchor79"/>                                            
-<navPoint id="navpoint-81" playOrder="81">
-<navLabel><text>Waarin onze held zich volstrekt niet op zijn gemak bevindt.</text></navLabel>
-<content src="lenn006lotg01_01-0041.xhtml#toc-anchor80"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-82" playOrder="82">
-<navLabel><text>Negen-en-dertigste hoofdstuk.</text></navLabel>
-<content src="lenn006lotg01_01-0042.xhtml#toc-anchor81"/>                                            
-<navPoint id="navpoint-83" playOrder="83">
-<navLabel><text>Hetwelk bekentenissen en sterfbedden afschetst: zeer melankoliek om te lezen.</text></navLabel>
-<content src="lenn006lotg01_01-0042.xhtml#toc-anchor82"/>
-</navPoint>                                            
-</navPoint>
-<navPoint id="navpoint-84" playOrder="84">
-<navLabel><text>[Nawoord]</text></navLabel>
-<content src="lenn006lotg01_01-0043.xhtml#toc-anchor83"/>                                            
-<navPoint id="navpoint-85" playOrder="85">
-<navLabel><text>Hier eindigt het verhaal van den Heer Huyck. Daarachter stond, met de hand van Mejuffrouw Stauffacher, het navolgende geschreven:</text></navLabel>
-<content src="lenn006lotg01_01-0043.xhtml#toc-anchor84"/>
-</navPoint>
-</navPoint>                                            
-</navPoint>
+<navPoint id="nav1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="xhtml/c0a_Alice_s_Adventures_in_Wonderland__1866_cover.xhtml" /></navPoint>
+<navPoint id="nav2" playOrder="2"><navLabel><text>Front Matter</text></navLabel><content src="xhtml/c00_Alice_s_Adventures_in_Wonderland__1866__title.xhtml" /></navPoint>
+<navPoint id="nav3" playOrder="3"><navLabel><text>Title Page</text></navLabel><content src="xhtml/c00a_Alice_s_Adventures_in_Wonderland__1866_.xhtml" /></navPoint>
+<navPoint id="nav4" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="xhtml/c00c_Alice_s_Adventures_in_Wonderland__1866_Contents.xhtml" /></navPoint>
+<navPoint id="nav5" playOrder="5"><navLabel><text>Copyright</text></navLabel><content src="xhtml/c00d_Alice_s_Adventures_in_Wonderland__1866_Copyright.xhtml" /></navPoint>
+<navPoint id="nav6" playOrder="6"><navLabel><text>I. Down the Rabbit-Hole</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#ch01" /></navPoint>
+<navPoint id="nav7" playOrder="7"><navLabel><text>II. The Pool of Tears</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#ch02" /></navPoint>
+<navPoint id="nav8" playOrder="8"><navLabel><text>III. A Caucus-Race and a Long Tale</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#ch03" /></navPoint>
+<navPoint id="nav9" playOrder="9"><navLabel><text>IV. The Rabbit Sends in a Little Bill</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#ch04" /></navPoint>
+<navPoint id="nav10" playOrder="10"><navLabel><text>V. Advice From a Caterpillar</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#ch05" /></navPoint>
+<navPoint id="nav11" playOrder="11"><navLabel><text>VI. Pig and Pepper</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#ch06" /></navPoint>
+<navPoint id="nav12" playOrder="12"><navLabel><text>VII. A Mad Tea-Party</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#ch07" /></navPoint>
+<navPoint id="nav13" playOrder="13"><navLabel><text>VIII. The Queen's Croquetground</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#ch08" /></navPoint>
+<navPoint id="nav14" playOrder="14"><navLabel><text>IX. The Mock-Turtle's Story</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#ch09" /></navPoint>
+<navPoint id="nav15" playOrder="15"><navLabel><text>X. The Lobster Quadrille</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#ch10" /></navPoint>
+<navPoint id="nav16" playOrder="16"><navLabel><text>XI. Who Stole the Tarts?</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#ch11" /></navPoint>
+<navPoint id="nav17" playOrder="17"><navLabel><text>XII. Alice's Evidence</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#ch12" /></navPoint>
 </navMap>
+
+<pageList>
+<pageTarget type="normal" id="p1" value="1"><navLabel><text>1</text></navLabel><content src="xhtml/c00_Alice_s_Adventures_in_Wonderland__1866__title.xhtml#page_1"/></pageTarget>
+<pageTarget type="normal" id="p2" value="2"><navLabel><text>2</text></navLabel><content src="xhtml/c00a_Alice_s_Adventures_in_Wonderland__1866_.xhtml#page_2"/></pageTarget>
+<pageTarget type="normal" id="p3" value="3"><navLabel><text>3</text></navLabel><content src="xhtml/c00b_Alice_s_Adventures_in_Wonderland__1866_Front_Matter.xhtml#page_3"/></pageTarget>
+<pageTarget type="normal" id="p4" value="4"><navLabel><text>4</text></navLabel><content src="xhtml/c00b_Alice_s_Adventures_in_Wonderland__1866_Front_Matter.xhtml#page_4"/></pageTarget>
+<pageTarget type="normal" id="p5" value="5"><navLabel><text>5</text></navLabel><content src="xhtml/c00b_Alice_s_Adventures_in_Wonderland__1866_Front_Matter.xhtml#page_5"/></pageTarget>
+<pageTarget type="normal" id="p6" value="6"><navLabel><text>6</text></navLabel><content src="xhtml/c00b_Alice_s_Adventures_in_Wonderland__1866_Front_Matter.xhtml#page_6"/></pageTarget>
+<pageTarget type="normal" id="p7" value="7"><navLabel><text>7</text></navLabel><content src="xhtml/c00c_Alice_s_Adventures_in_Wonderland__1866_Contents.xhtml#page_7"/></pageTarget>
+<pageTarget type="normal" id="p8" value="8"><navLabel><text>8</text></navLabel><content src="xhtml/c00d_Alice_s_Adventures_in_Wonderland__1866_Copyright.xhtml#page_8"/></pageTarget>
+<pageTarget type="normal" id="p9" value="9"><navLabel><text>9</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_9"/></pageTarget>
+<pageTarget type="normal" id="p10" value="10"><navLabel><text>10</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_10"/></pageTarget>
+<pageTarget type="normal" id="p11" value="11"><navLabel><text>11</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_11"/></pageTarget>
+<pageTarget type="normal" id="p12" value="12"><navLabel><text>12</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_12"/></pageTarget>
+<pageTarget type="normal" id="p13" value="13"><navLabel><text>13</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_13"/></pageTarget>
+<pageTarget type="normal" id="p14" value="14"><navLabel><text>14</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_14"/></pageTarget>
+<pageTarget type="normal" id="p15" value="15"><navLabel><text>15</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_15"/></pageTarget>
+<pageTarget type="normal" id="p16" value="16"><navLabel><text>16</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_16"/></pageTarget>
+<pageTarget type="normal" id="p17" value="17"><navLabel><text>17</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_17"/></pageTarget>
+<pageTarget type="normal" id="p18" value="18"><navLabel><text>18</text></navLabel><content src="xhtml/c01_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml#page_18"/></pageTarget>
+<pageTarget type="normal" id="p19" value="19"><navLabel><text>19</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_19"/></pageTarget>
+<pageTarget type="normal" id="p20" value="20"><navLabel><text>20</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_20"/></pageTarget>
+<pageTarget type="normal" id="p21" value="21"><navLabel><text>21</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_21"/></pageTarget>
+<pageTarget type="normal" id="p23" value="23"><navLabel><text>23</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_23"/></pageTarget>
+<pageTarget type="normal" id="p24" value="24"><navLabel><text>24</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_24"/></pageTarget>
+<pageTarget type="normal" id="p25" value="25"><navLabel><text>25</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_25"/></pageTarget>
+<pageTarget type="normal" id="p26" value="26"><navLabel><text>26</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_26"/></pageTarget>
+<pageTarget type="normal" id="p27" value="27"><navLabel><text>27</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_27"/></pageTarget>
+<pageTarget type="normal" id="p28" value="28"><navLabel><text>28</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_28"/></pageTarget>
+<pageTarget type="normal" id="p29" value="29"><navLabel><text>29</text></navLabel><content src="xhtml/c02_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml#page_29"/></pageTarget>
+<pageTarget type="normal" id="p30" value="30"><navLabel><text>30</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_30"/></pageTarget>
+<pageTarget type="normal" id="p31" value="31"><navLabel><text>31</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_31"/></pageTarget>
+<pageTarget type="normal" id="p32" value="32"><navLabel><text>32</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_32"/></pageTarget>
+<pageTarget type="normal" id="p33" value="33"><navLabel><text>33</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_33"/></pageTarget>
+<pageTarget type="normal" id="p34" value="34"><navLabel><text>34</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_34"/></pageTarget>
+<pageTarget type="normal" id="p35" value="35"><navLabel><text>35</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_35"/></pageTarget>
+<pageTarget type="normal" id="p36" value="36"><navLabel><text>36</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_36"/></pageTarget>
+<pageTarget type="normal" id="p37" value="37"><navLabel><text>37</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_37"/></pageTarget>
+<pageTarget type="normal" id="p38" value="38"><navLabel><text>38</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_38"/></pageTarget>
+<pageTarget type="normal" id="p39" value="39"><navLabel><text>39</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_39"/></pageTarget>
+<pageTarget type="normal" id="p40" value="40"><navLabel><text>40</text></navLabel><content src="xhtml/c03_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml#page_40"/></pageTarget>
+<pageTarget type="normal" id="p41" value="41"><navLabel><text>41</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_41"/></pageTarget>
+<pageTarget type="normal" id="p42" value="42"><navLabel><text>42</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_42"/></pageTarget>
+<pageTarget type="normal" id="p43" value="43"><navLabel><text>43</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_43"/></pageTarget>
+<pageTarget type="normal" id="p44" value="44"><navLabel><text>44</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_44"/></pageTarget>
+<pageTarget type="normal" id="p45" value="45"><navLabel><text>45</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_45"/></pageTarget>
+<pageTarget type="normal" id="p46" value="46"><navLabel><text>46</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_46"/></pageTarget>
+<pageTarget type="normal" id="p47" value="47"><navLabel><text>47</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_47"/></pageTarget>
+<pageTarget type="normal" id="p48" value="48"><navLabel><text>48</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_48"/></pageTarget>
+<pageTarget type="normal" id="p49" value="49"><navLabel><text>49</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_49"/></pageTarget>
+<pageTarget type="normal" id="p50" value="50"><navLabel><text>50</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_50"/></pageTarget>
+<pageTarget type="normal" id="p51" value="51"><navLabel><text>51</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_51"/></pageTarget>
+<pageTarget type="normal" id="p52" value="52"><navLabel><text>52</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_52"/></pageTarget>
+<pageTarget type="normal" id="p53" value="53"><navLabel><text>53</text></navLabel><content src="xhtml/c04_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml#page_53"/></pageTarget>
+<pageTarget type="normal" id="p54" value="54"><navLabel><text>54</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_54"/></pageTarget>
+<pageTarget type="normal" id="p55" value="55"><navLabel><text>55</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_55"/></pageTarget>
+<pageTarget type="normal" id="p56" value="56"><navLabel><text>56</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_56"/></pageTarget>
+<pageTarget type="normal" id="p57" value="57"><navLabel><text>57</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_57"/></pageTarget>
+<pageTarget type="normal" id="p58" value="58"><navLabel><text>58</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_58"/></pageTarget>
+<pageTarget type="normal" id="p59" value="59"><navLabel><text>59</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_59"/></pageTarget>
+<pageTarget type="normal" id="p60" value="60"><navLabel><text>60</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_60"/></pageTarget>
+<pageTarget type="normal" id="p61" value="61"><navLabel><text>61</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_61"/></pageTarget>
+<pageTarget type="normal" id="p62" value="62"><navLabel><text>62</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_62"/></pageTarget>
+<pageTarget type="normal" id="p63" value="63"><navLabel><text>63</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_63"/></pageTarget>
+<pageTarget type="normal" id="p64" value="64"><navLabel><text>64</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_64"/></pageTarget>
+<pageTarget type="normal" id="p65" value="65"><navLabel><text>65</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_65"/></pageTarget>
+<pageTarget type="normal" id="p66" value="66"><navLabel><text>66</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_66"/></pageTarget>
+<pageTarget type="normal" id="p67" value="67"><navLabel><text>67</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_67"/></pageTarget>
+<pageTarget type="normal" id="p68" value="68"><navLabel><text>68</text></navLabel><content src="xhtml/c05_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml#page_68"/></pageTarget>
+<pageTarget type="normal" id="p69" value="69"><navLabel><text>69</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_69"/></pageTarget>
+<pageTarget type="normal" id="p70" value="70"><navLabel><text>70</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_70"/></pageTarget>
+<pageTarget type="normal" id="p71" value="71"><navLabel><text>71</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_71"/></pageTarget>
+<pageTarget type="normal" id="p72" value="72"><navLabel><text>72</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_72"/></pageTarget>
+<pageTarget type="normal" id="p73" value="73"><navLabel><text>73</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_73"/></pageTarget>
+<pageTarget type="normal" id="p74" value="74"><navLabel><text>74</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_74"/></pageTarget>
+<pageTarget type="normal" id="p75" value="75"><navLabel><text>75</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_75"/></pageTarget>
+<pageTarget type="normal" id="p76" value="76"><navLabel><text>76</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_76"/></pageTarget>
+<pageTarget type="normal" id="p77" value="77"><navLabel><text>77</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_77"/></pageTarget>
+<pageTarget type="normal" id="p78" value="78"><navLabel><text>78</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_78"/></pageTarget>
+<pageTarget type="normal" id="p79" value="79"><navLabel><text>79</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_79"/></pageTarget>
+<pageTarget type="normal" id="p80" value="80"><navLabel><text>80</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_80"/></pageTarget>
+<pageTarget type="normal" id="p81" value="81"><navLabel><text>81</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_81"/></pageTarget>
+<pageTarget type="normal" id="p82" value="82"><navLabel><text>82</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_82"/></pageTarget>
+<pageTarget type="normal" id="p83" value="83"><navLabel><text>83</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_83"/></pageTarget>
+<pageTarget type="normal" id="p84" value="84"><navLabel><text>84</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_84"/></pageTarget>
+<pageTarget type="normal" id="p85" value="85"><navLabel><text>85</text></navLabel><content src="xhtml/c06_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml#page_85"/></pageTarget>
+<pageTarget type="normal" id="p86" value="86"><navLabel><text>86</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_86"/></pageTarget>
+<pageTarget type="normal" id="p87" value="87"><navLabel><text>87</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_87"/></pageTarget>
+<pageTarget type="normal" id="p88" value="88"><navLabel><text>88</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_88"/></pageTarget>
+<pageTarget type="normal" id="p89" value="89"><navLabel><text>89</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_89"/></pageTarget>
+<pageTarget type="normal" id="p90" value="90"><navLabel><text>90</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_90"/></pageTarget>
+<pageTarget type="normal" id="p91" value="91"><navLabel><text>91</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_91"/></pageTarget>
+<pageTarget type="normal" id="p92" value="92"><navLabel><text>92</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_92"/></pageTarget>
+<pageTarget type="normal" id="p93" value="93"><navLabel><text>93</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_93"/></pageTarget>
+<pageTarget type="normal" id="p94" value="94"><navLabel><text>94</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_94"/></pageTarget>
+<pageTarget type="normal" id="p95" value="95"><navLabel><text>95</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_95"/></pageTarget>
+<pageTarget type="normal" id="p96" value="96"><navLabel><text>96</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_96"/></pageTarget>
+<pageTarget type="normal" id="p97" value="97"><navLabel><text>97</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_97"/></pageTarget>
+<pageTarget type="normal" id="p98" value="98"><navLabel><text>98</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_98"/></pageTarget>
+<pageTarget type="normal" id="p99" value="99"><navLabel><text>99</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_99"/></pageTarget>
+<pageTarget type="normal" id="p100" value="100"><navLabel><text>100</text></navLabel><content src="xhtml/c07_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml#page_100"/></pageTarget>
+<pageTarget type="normal" id="p101" value="101"><navLabel><text>101</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_101"/></pageTarget>
+<pageTarget type="normal" id="p102" value="102"><navLabel><text>102</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_102"/></pageTarget>
+<pageTarget type="normal" id="p103" value="103"><navLabel><text>103</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_103"/></pageTarget>
+<pageTarget type="normal" id="p104" value="104"><navLabel><text>104</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_104"/></pageTarget>
+<pageTarget type="normal" id="p105" value="105"><navLabel><text>105</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_105"/></pageTarget>
+<pageTarget type="normal" id="p106" value="106"><navLabel><text>106</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_106"/></pageTarget>
+<pageTarget type="normal" id="p107" value="107"><navLabel><text>107</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_107"/></pageTarget>
+<pageTarget type="normal" id="p108" value="108"><navLabel><text>108</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_108"/></pageTarget>
+<pageTarget type="normal" id="p109" value="109"><navLabel><text>109</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_109"/></pageTarget>
+<pageTarget type="normal" id="p110" value="110"><navLabel><text>110</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_110"/></pageTarget>
+<pageTarget type="normal" id="p111" value="111"><navLabel><text>111</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_111"/></pageTarget>
+<pageTarget type="normal" id="p112" value="112"><navLabel><text>112</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_112"/></pageTarget>
+<pageTarget type="normal" id="p113" value="113"><navLabel><text>113</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_113"/></pageTarget>
+<pageTarget type="normal" id="p114" value="114"><navLabel><text>114</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_114"/></pageTarget>
+<pageTarget type="normal" id="p115" value="115"><navLabel><text>115</text></navLabel><content src="xhtml/c08_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml#page_115"/></pageTarget>
+<pageTarget type="normal" id="p116" value="116"><navLabel><text>116</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_116"/></pageTarget>
+<pageTarget type="normal" id="p117" value="117"><navLabel><text>117</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_117"/></pageTarget>
+<pageTarget type="normal" id="p118" value="118"><navLabel><text>118</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_118"/></pageTarget>
+<pageTarget type="normal" id="p119" value="119"><navLabel><text>119</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_119"/></pageTarget>
+<pageTarget type="normal" id="p120" value="120"><navLabel><text>120</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_120"/></pageTarget>
+<pageTarget type="normal" id="p121" value="121"><navLabel><text>121</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_121"/></pageTarget>
+<pageTarget type="normal" id="p122" value="122"><navLabel><text>122</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_122"/></pageTarget>
+<pageTarget type="normal" id="p123" value="123"><navLabel><text>123</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_123"/></pageTarget>
+<pageTarget type="normal" id="p124" value="124"><navLabel><text>124</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_124"/></pageTarget>
+<pageTarget type="normal" id="p125" value="125"><navLabel><text>125</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_125"/></pageTarget>
+<pageTarget type="normal" id="p126" value="126"><navLabel><text>126</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_126"/></pageTarget>
+<pageTarget type="normal" id="p127" value="127"><navLabel><text>127</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_127"/></pageTarget>
+<pageTarget type="normal" id="p128" value="128"><navLabel><text>128</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_128"/></pageTarget>
+<pageTarget type="normal" id="p129" value="129"><navLabel><text>129</text></navLabel><content src="xhtml/c09_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml#page_129"/></pageTarget>
+<pageTarget type="normal" id="p130" value="130"><navLabel><text>130</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_130"/></pageTarget>
+<pageTarget type="normal" id="p131" value="131"><navLabel><text>131</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_131"/></pageTarget>
+<pageTarget type="normal" id="p132" value="132"><navLabel><text>132</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_132"/></pageTarget>
+<pageTarget type="normal" id="p133" value="133"><navLabel><text>133</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_133"/></pageTarget>
+<pageTarget type="normal" id="p134" value="134"><navLabel><text>134</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_134"/></pageTarget>
+<pageTarget type="normal" id="p135" value="135"><navLabel><text>135</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_135"/></pageTarget>
+<pageTarget type="normal" id="p136" value="136"><navLabel><text>136</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_136"/></pageTarget>
+<pageTarget type="normal" id="p137" value="137"><navLabel><text>137</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_137"/></pageTarget>
+<pageTarget type="normal" id="p138" value="138"><navLabel><text>138</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_138"/></pageTarget>
+<pageTarget type="normal" id="p139" value="139"><navLabel><text>139</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_139"/></pageTarget>
+<pageTarget type="normal" id="p140" value="140"><navLabel><text>140</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_140"/></pageTarget>
+<pageTarget type="normal" id="p141" value="141"><navLabel><text>141</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_141"/></pageTarget>
+<pageTarget type="normal" id="p142" value="142"><navLabel><text>142</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_142"/></pageTarget>
+<pageTarget type="normal" id="p143" value="143"><navLabel><text>143</text></navLabel><content src="xhtml/c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml#page_143"/></pageTarget>
+<pageTarget type="normal" id="p144" value="144"><navLabel><text>144</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_144"/></pageTarget>
+<pageTarget type="normal" id="p145" value="145"><navLabel><text>145</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_145"/></pageTarget>
+<pageTarget type="normal" id="p146" value="146"><navLabel><text>146</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_146"/></pageTarget>
+<pageTarget type="normal" id="p147" value="147"><navLabel><text>147</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_147"/></pageTarget>
+<pageTarget type="normal" id="p148" value="148"><navLabel><text>148</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_148"/></pageTarget>
+<pageTarget type="normal" id="p149" value="149"><navLabel><text>149</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_149"/></pageTarget>
+<pageTarget type="normal" id="p150" value="150"><navLabel><text>150</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_150"/></pageTarget>
+<pageTarget type="normal" id="p151" value="151"><navLabel><text>151</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_151"/></pageTarget>
+<pageTarget type="normal" id="p152" value="152"><navLabel><text>152</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_152"/></pageTarget>
+<pageTarget type="normal" id="p153" value="153"><navLabel><text>153</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_153"/></pageTarget>
+<pageTarget type="normal" id="p154" value="154"><navLabel><text>154</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_154"/></pageTarget>
+<pageTarget type="normal" id="p155" value="155"><navLabel><text>155</text></navLabel><content src="xhtml/c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml#page_155"/></pageTarget>
+<pageTarget type="normal" id="p156" value="156"><navLabel><text>156</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_156"/></pageTarget>
+<pageTarget type="normal" id="p157" value="157"><navLabel><text>157</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_157"/></pageTarget>
+<pageTarget type="normal" id="p158" value="158"><navLabel><text>158</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_158"/></pageTarget>
+<pageTarget type="normal" id="p159" value="159"><navLabel><text>159</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_159"/></pageTarget>
+<pageTarget type="normal" id="p160" value="160"><navLabel><text>160</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_160"/></pageTarget>
+<pageTarget type="normal" id="p161" value="161"><navLabel><text>161</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_161"/></pageTarget>
+<pageTarget type="normal" id="p162" value="162"><navLabel><text>162</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_162"/></pageTarget>
+<pageTarget type="normal" id="p163" value="163"><navLabel><text>163</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_163"/></pageTarget>
+<pageTarget type="normal" id="p164" value="164"><navLabel><text>164</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_164"/></pageTarget>
+<pageTarget type="normal" id="p165" value="165"><navLabel><text>165</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_165"/></pageTarget>
+<pageTarget type="normal" id="p166" value="166"><navLabel><text>166</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_166"/></pageTarget>
+<pageTarget type="normal" id="p167" value="167"><navLabel><text>167</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_167"/></pageTarget>
+<pageTarget type="normal" id="p168" value="168"><navLabel><text>168</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_168"/></pageTarget>
+<pageTarget type="normal" id="p169" value="169"><navLabel><text>169</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_169"/></pageTarget>
+<pageTarget type="normal" id="p170" value="170"><navLabel><text>170</text></navLabel><content src="xhtml/c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml#page_170"/></pageTarget>
+<pageTarget type="normal" id="p172" value="172"><navLabel><text>172</text></navLabel><content src="xhtml/c13_Alice_s_Adventures_in_Wonderland__about.xhtml#page_172"/></pageTarget>
+<pageTarget type="normal" id="p173" value="173"><navLabel><text>173</text></navLabel><content src="xhtml/c13_Alice_s_Adventures_in_Wonderland__about.xhtml#page_173"/></pageTarget>
+<pageTarget type="normal" id="p174" value="174"><navLabel><text>174</text></navLabel><content src="xhtml/c13_Alice_s_Adventures_in_Wonderland__about.xhtml#page_174"/></pageTarget>
+<pageTarget type="normal" id="p175" value="175"><navLabel><text>175</text></navLabel><content src="xhtml/c13_Alice_s_Adventures_in_Wonderland__about.xhtml#page_175"/></pageTarget>
+<pageTarget type="normal" id="p176" value="176"><navLabel><text>176</text></navLabel><content src="xhtml/c13_Alice_s_Adventures_in_Wonderland__about.xhtml#page_176"/></pageTarget>
+</pageList>
 </ncx>
