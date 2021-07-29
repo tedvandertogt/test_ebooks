@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="en" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://en.wikisource.org/wiki/Alice%27s_Adventures_in_Wonderland_%281866%29</dc:identifier>
+				    <meta property="dcterms:modified">2021-06-29T13:34:58Z</meta>
+				    <dc:language>en</dc:language>
+				    <dc:title id="meta-title">Alice&#039;s Adventures in Wonderland 1</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:publisher>Wikisource</dc:publisher>
+				    <dc:source>https://en.wikisource.org/wiki/Alice%27s_Adventures_in_Wonderland_%281866%29</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><dc:creator id="meta-aut">Lewis Carroll</dc:creator>
+					       <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta><dc:date>2021</dc:date><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png" /><item id="c0_Alice_s_Adventures_in_Wonderland__1866_" href="c0_Alice_s_Adventures_in_Wonderland__1866_.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_Alice_s_Adventures_in_Wonderland__1866__Chapter_1" href="c1_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_Alice_s_Adventures_in_Wonderland__1866__Chapter_2" href="c2_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_Alice_s_Adventures_in_Wonderland__1866__Chapter_3" href="c3_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_Alice_s_Adventures_in_Wonderland__1866__Chapter_4" href="c4_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_Alice_s_Adventures_in_Wonderland__1866__Chapter_5" href="c5_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml" media-type="application/xhtml+xml" />
+<item id="c6_Alice_s_Adventures_in_Wonderland__1866__Chapter_6" href="c6_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml" media-type="application/xhtml+xml" />
+<item id="c7_Alice_s_Adventures_in_Wonderland__1866__Chapter_7" href="c7_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml" media-type="application/xhtml+xml" />
+<item id="c8_Alice_s_Adventures_in_Wonderland__1866__Chapter_8" href="c8_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml" media-type="application/xhtml+xml" />
+<item id="c9_Alice_s_Adventures_in_Wonderland__1866__Chapter_9" href="c9_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml" media-type="application/xhtml+xml" />
+<item id="c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10" href="c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml" media-type="application/xhtml+xml" />
+<item id="c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11" href="c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml" media-type="application/xhtml+xml" />
+<item id="c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12" href="c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml" media-type="application/xhtml+xml" />
+<item id="c13_PD_icon.svg_48px_PD_icon.svg.png" href="images/c13_PD_icon.svg_48px_PD_icon.svg.png" media-type="image/png" />
+<item id="c14_Queen_of_Hearts.jpg_400px_Queen_of_Hearts.jpg" href="images/c14_Queen_of_Hearts.jpg_400px_Queen_of_Hearts.jpg" media-type="image/jpeg" />
+<item id="c15_Alice_white_rabbit.jpg_250px_Alice_white_rabbit.jpg" href="images/c15_Alice_white_rabbit.jpg_250px_Alice_white_rabbit.jpg" media-type="image/jpeg" />
+<item id="c16_Alice_par_John_Tenniel_03.png_200px_Alice_par_John_Tenniel_03.png" href="images/c16_Alice_par_John_Tenniel_03.png_200px_Alice_par_John_Tenniel_03.png" media-type="image/png" />
+<item id="c17_Alice_par_John_Tenniel_04.png_200px_Alice_par_John_Tenniel_04.png" href="images/c17_Alice_par_John_Tenniel_04.png_200px_Alice_par_John_Tenniel_04.png" media-type="image/png" />
+<item id="c18_Alice_par_John_Tenniel_05.png_180px_Alice_par_John_Tenniel_05.png" href="images/c18_Alice_par_John_Tenniel_05.png_180px_Alice_par_John_Tenniel_05.png" media-type="image/png" />
+<item id="c19_Alice_par_John_Tenniel_06.png_400px_Alice_par_John_Tenniel_06.png" href="images/c19_Alice_par_John_Tenniel_06.png_400px_Alice_par_John_Tenniel_06.png" media-type="image/png" />
+<item id="c20_Alice_par_John_Tenniel_07.png_300px_Alice_par_John_Tenniel_07.png" href="images/c20_Alice_par_John_Tenniel_07.png_300px_Alice_par_John_Tenniel_07.png" media-type="image/png" />
+<item id="c21_Alice_par_John_Tenniel_08.png_350px_Alice_par_John_Tenniel_08.png" href="images/c21_Alice_par_John_Tenniel_08.png_350px_Alice_par_John_Tenniel_08.png" media-type="image/png" />
+<item id="c22_Alice_par_John_Tenniel_10.png_400px_Alice_par_John_Tenniel_10.png" href="images/c22_Alice_par_John_Tenniel_10.png_400px_Alice_par_John_Tenniel_10.png" media-type="image/png" />
+<item id="c23_Alice_par_John_Tenniel_09.png_400px_Alice_par_John_Tenniel_09.png" href="images/c23_Alice_par_John_Tenniel_09.png_400px_Alice_par_John_Tenniel_09.png" media-type="image/png" />
+<item id="c24_Alice_par_John_Tenniel_11.png_400px_Alice_par_John_Tenniel_11.png" href="images/c24_Alice_par_John_Tenniel_11.png_400px_Alice_par_John_Tenniel_11.png" media-type="image/png" />
+<item id="c25_Alice_par_John_Tenniel_12.png_180px_Alice_par_John_Tenniel_12.png" href="images/c25_Alice_par_John_Tenniel_12.png_180px_Alice_par_John_Tenniel_12.png" media-type="image/png" />
+<item id="c26_Alice_par_John_Tenniel_13.png_150px_Alice_par_John_Tenniel_13.png" href="images/c26_Alice_par_John_Tenniel_13.png_150px_Alice_par_John_Tenniel_13.png" media-type="image/png" />
+<item id="c27_Alice_par_John_Tenniel_14.png_400px_Alice_par_John_Tenniel_14.png" href="images/c27_Alice_par_John_Tenniel_14.png_400px_Alice_par_John_Tenniel_14.png" media-type="image/png" />
+<item id="c28_Alice_05a_1116x1492.jpg_350px_Alice_05a_1116x1492.jpg" href="images/c28_Alice_05a_1116x1492.jpg_350px_Alice_05a_1116x1492.jpg" media-type="image/jpeg" />
+<item id="c29_Alice_par_John_Tenniel_16.png_400px_Alice_par_John_Tenniel_16.png" href="images/c29_Alice_par_John_Tenniel_16.png_400px_Alice_par_John_Tenniel_16.png" media-type="image/png" />
+<item id="c30_enteuer_im_Wunderland_Carroll_pic_17.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_17.jpg" href="images/c30_enteuer_im_Wunderland_Carroll_pic_17.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_17.jpg" media-type="image/jpeg" />
+<item id="c31_enteuer_im_Wunderland_Carroll_pic_18.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_18.jpg" href="images/c31_enteuer_im_Wunderland_Carroll_pic_18.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_18.jpg" media-type="image/jpeg" />
+<item id="c32_enteuer_im_Wunderland_Carroll_pic_19.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_19.jpg" href="images/c32_enteuer_im_Wunderland_Carroll_pic_19.jpg_400px_De_Alice_s_Abenteuer_im_Wunderland_Carroll_pic_19.jpg" media-type="image/jpeg" />
+<item id="c33_ation_d_origine__1865___par_John_Tenniel_du_roman_de_Lewis_Carroll__Alice_au_pays_des_merveilles.png" href="images/c33_ation_d_origine__1865___par_John_Tenniel_du_roman_de_Lewis_Carroll__Alice_au_pays_des_merveilles.png" media-type="image/png" />
+<item id="c34_Alice_par_John_Tenniel_21.png_400px_Alice_par_John_Tenniel_21.png" href="images/c34_Alice_par_John_Tenniel_21.png_400px_Alice_par_John_Tenniel_21.png" media-type="image/png" />
+<item id="c35_Alice_par_John_Tenniel_22.png_200px_Alice_par_John_Tenniel_22.png" href="images/c35_Alice_par_John_Tenniel_22.png_200px_Alice_par_John_Tenniel_22.png" media-type="image/png" />
+<item id="c36_Alice_par_John_Tenniel_23.png_400px_Alice_par_John_Tenniel_23.png" href="images/c36_Alice_par_John_Tenniel_23.png_400px_Alice_par_John_Tenniel_23.png" media-type="image/png" />
+<item id="c37_Alice_par_John_Tenniel_24.png_400px_Alice_par_John_Tenniel_24.png" href="images/c37_Alice_par_John_Tenniel_24.png_400px_Alice_par_John_Tenniel_24.png" media-type="image/png" />
+<item id="c38_Alice_par_John_Tenniel_25.png_400px_Alice_par_John_Tenniel_25.png" href="images/c38_Alice_par_John_Tenniel_25.png_400px_Alice_par_John_Tenniel_25.png" media-type="image/png" />
+<item id="c39_Alice_par_John_Tenniel_26.png_275px_Alice_par_John_Tenniel_26.png" href="images/c39_Alice_par_John_Tenniel_26.png_275px_Alice_par_John_Tenniel_26.png" media-type="image/png" />
+<item id="c40_Alice_par_John_Tenniel_27.png_350px_Alice_par_John_Tenniel_27.png" href="images/c40_Alice_par_John_Tenniel_27.png_350px_Alice_par_John_Tenniel_27.png" media-type="image/png" />
+<item id="c41_Alice_par_John_Tenniel_28.png_250px_Alice_par_John_Tenniel_28.png" href="images/c41_Alice_par_John_Tenniel_28.png_250px_Alice_par_John_Tenniel_28.png" media-type="image/png" />
+<item id="c42_Alice_par_John_Tenniel_29.png_400px_Alice_par_John_Tenniel_29.png" href="images/c42_Alice_par_John_Tenniel_29.png_400px_Alice_par_John_Tenniel_29.png" media-type="image/png" />
+<item id="c43_Alice_par_John_Tenniel_30.png_200px_Alice_par_John_Tenniel_30.png" href="images/c43_Alice_par_John_Tenniel_30.png_200px_Alice_par_John_Tenniel_30.png" media-type="image/png" />
+<item id="c44_Alice_par_John_Tenniel_31.png_350px_Alice_par_John_Tenniel_31.png" href="images/c44_Alice_par_John_Tenniel_31.png_350px_Alice_par_John_Tenniel_31.png" media-type="image/png" />
+<item id="c45_Alice_par_John_Tenniel_32.png_225px_Alice_par_John_Tenniel_32.png" href="images/c45_Alice_par_John_Tenniel_32.png_225px_Alice_par_John_Tenniel_32.png" media-type="image/png" />
+<item id="c46_Gryphon.png_400px_Gryphon.png" href="images/c46_Gryphon.png_400px_Gryphon.png" media-type="image/png" />
+<item id="c47_Alice_par_John_Tenniel_34.png_400px_Alice_par_John_Tenniel_34.png" href="images/c47_Alice_par_John_Tenniel_34.png_400px_Alice_par_John_Tenniel_34.png" media-type="image/png" />
+<item id="c48_Alice_par_John_Tenniel_35.png_350px_Alice_par_John_Tenniel_35.png" href="images/c48_Alice_par_John_Tenniel_35.png_350px_Alice_par_John_Tenniel_35.png" media-type="image/png" />
+<item id="c49_Alice_par_John_Tenniel_36.png_225px_Alice_par_John_Tenniel_36.png" href="images/c49_Alice_par_John_Tenniel_36.png_225px_Alice_par_John_Tenniel_36.png" media-type="image/png" />
+<item id="c50_Alice_par_John_Tenniel_37.png_250px_Alice_par_John_Tenniel_37.png" href="images/c50_Alice_par_John_Tenniel_37.png_250px_Alice_par_John_Tenniel_37.png" media-type="image/png" />
+<item id="c51_Alice_par_John_Tenniel_38.png_200px_Alice_par_John_Tenniel_38.png" href="images/c51_Alice_par_John_Tenniel_38.png_200px_Alice_par_John_Tenniel_38.png" media-type="image/png" />
+<item id="c52_Alice_par_John_Tenniel_39.png_300px_Alice_par_John_Tenniel_39.png" href="images/c52_Alice_par_John_Tenniel_39.png_300px_Alice_par_John_Tenniel_39.png" media-type="image/png" />
+<item id="c53_Alice_par_John_Tenniel_40.png_400px_Alice_par_John_Tenniel_40.png" href="images/c53_Alice_par_John_Tenniel_40.png_400px_Alice_par_John_Tenniel_40.png" media-type="image/png" />
+<item id="c54_Alice_par_John_Tenniel_41.png_400px_Alice_par_John_Tenniel_41.png" href="images/c54_Alice_par_John_Tenniel_41.png_400px_Alice_par_John_Tenniel_41.png" media-type="image/png" />
+<item id="c55_Alice_par_John_Tenniel_42.png_400px_Alice_par_John_Tenniel_42.png" href="images/c55_Alice_par_John_Tenniel_42.png_400px_Alice_par_John_Tenniel_42.png" media-type="image/png" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_Alice_s_Adventures_in_Wonderland__1866_" linear="yes" /><itemref idref="c1_Alice_s_Adventures_in_Wonderland__1866__Chapter_1" linear="yes" /><itemref idref="c2_Alice_s_Adventures_in_Wonderland__1866__Chapter_2" linear="yes" /><itemref idref="c3_Alice_s_Adventures_in_Wonderland__1866__Chapter_3" linear="yes" /><itemref idref="c4_Alice_s_Adventures_in_Wonderland__1866__Chapter_4" linear="yes" /><itemref idref="c5_Alice_s_Adventures_in_Wonderland__1866__Chapter_5" linear="yes" /><itemref idref="c6_Alice_s_Adventures_in_Wonderland__1866__Chapter_6" linear="yes" /><itemref idref="c7_Alice_s_Adventures_in_Wonderland__1866__Chapter_7" linear="yes" /><itemref idref="c8_Alice_s_Adventures_in_Wonderland__1866__Chapter_8" linear="yes" /><itemref idref="c9_Alice_s_Adventures_in_Wonderland__1866__Chapter_9" linear="yes" /><itemref idref="c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10" linear="yes" /><itemref idref="c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11" linear="yes" /><itemref idref="c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

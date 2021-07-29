@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://en.wikisource.org/wiki/Alice%27s_Adventures_in_Wonderland_%281866%29" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>Alice&#039;s Adventures in Wonderland</text></docTitle>
+				<docAuthor><text>Lewis Carroll</text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>Title page</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_Alice_s_Adventures_in_Wonderland__1866_" playOrder="2">
+						    <navLabel><text>Alice&#039;s Adventures in Wonderland</text></navLabel>
+						    <content src="c0_Alice_s_Adventures_in_Wonderland__1866_.xhtml" />
+					    </navPoint><navPoint id="c1_Alice_s_Adventures_in_Wonderland__1866__Chapter_1" playOrder="3">
+									    <navLabel><text>DOWN THE RABBIT-HOLE</text></navLabel>
+									    <content src="c1_Alice_s_Adventures_in_Wonderland__1866__Chapter_1.xhtml" /></navPoint><navPoint id="c2_Alice_s_Adventures_in_Wonderland__1866__Chapter_2" playOrder="4">
+									    <navLabel><text>THE POOL OF TEARS</text></navLabel>
+									    <content src="c2_Alice_s_Adventures_in_Wonderland__1866__Chapter_2.xhtml" /></navPoint><navPoint id="c3_Alice_s_Adventures_in_Wonderland__1866__Chapter_3" playOrder="5">
+									    <navLabel><text>A CAUCUS-RACE AND A LONG TALE</text></navLabel>
+									    <content src="c3_Alice_s_Adventures_in_Wonderland__1866__Chapter_3.xhtml" /></navPoint><navPoint id="c4_Alice_s_Adventures_in_Wonderland__1866__Chapter_4" playOrder="6">
+									    <navLabel><text>THE RABBIT SENDS IN A LITTLE BILL</text></navLabel>
+									    <content src="c4_Alice_s_Adventures_in_Wonderland__1866__Chapter_4.xhtml" /></navPoint><navPoint id="c5_Alice_s_Adventures_in_Wonderland__1866__Chapter_5" playOrder="7">
+									    <navLabel><text>ADVICE FROM A CATERPILLAR</text></navLabel>
+									    <content src="c5_Alice_s_Adventures_in_Wonderland__1866__Chapter_5.xhtml" /></navPoint><navPoint id="c6_Alice_s_Adventures_in_Wonderland__1866__Chapter_6" playOrder="8">
+									    <navLabel><text>PIG AND PEPPER</text></navLabel>
+									    <content src="c6_Alice_s_Adventures_in_Wonderland__1866__Chapter_6.xhtml" /></navPoint><navPoint id="c7_Alice_s_Adventures_in_Wonderland__1866__Chapter_7" playOrder="9">
+									    <navLabel><text>A MAD TEA-PARTY</text></navLabel>
+									    <content src="c7_Alice_s_Adventures_in_Wonderland__1866__Chapter_7.xhtml" /></navPoint><navPoint id="c8_Alice_s_Adventures_in_Wonderland__1866__Chapter_8" playOrder="10">
+									    <navLabel><text>THE QUEEN&#039;S CROQUET-GROUND</text></navLabel>
+									    <content src="c8_Alice_s_Adventures_in_Wonderland__1866__Chapter_8.xhtml" /></navPoint><navPoint id="c9_Alice_s_Adventures_in_Wonderland__1866__Chapter_9" playOrder="11">
+									    <navLabel><text>THE MOCK-TURTLE&#039;S STORY</text></navLabel>
+									    <content src="c9_Alice_s_Adventures_in_Wonderland__1866__Chapter_9.xhtml" /></navPoint><navPoint id="c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10" playOrder="12">
+									    <navLabel><text>THE LOBSTER QUADRILLE</text></navLabel>
+									    <content src="c10_Alice_s_Adventures_in_Wonderland__1866__Chapter_10.xhtml" /></navPoint><navPoint id="c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11" playOrder="13">
+									    <navLabel><text>WHO STOLE THE TARTS?</text></navLabel>
+									    <content src="c11_Alice_s_Adventures_in_Wonderland__1866__Chapter_11.xhtml" /></navPoint><navPoint id="c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12" playOrder="14">
+									    <navLabel><text>ALICE&#039;S EVIDENCE</text></navLabel>
+									    <content src="c12_Alice_s_Adventures_in_Wonderland__1866__Chapter_12.xhtml" /></navPoint><navPoint id="about" playOrder="15">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>
