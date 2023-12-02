@@ -1,0 +1,476 @@
+/*
+copyright ferdinand rusch | www.formaat.nl Haarzuilens
+ferformaatflow 2021 07 06
+ff-flow KBtestbookdoc ultiem voor de epub3 english
+*/
+@page {
+    margin: 4px 4px 4px 4px;
+}
+
+body {
+    -epub-hyphens: none;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+}
+
+body,p,div,h1,h2,h3,h4,h5,blockquote,ol,ul,li,figure {
+    font-family: Serif;
+    line-height: 1.45em;
+    font-size: 1em;
+    margin: 0 0 0 0;
+    text-align: left;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+}
+
+div.ffo-intern {
+    display: none;
+}
+
+.Xtra_zz-buitenpagina {
+    display: none;
+}
+
+section.ffo-newpage {
+}
+
+section.ffo-linkinhoud {
+}
+
+figure.ffo-cover {
+    text-align: center;
+    width: auto;
+    height: calc(95vh - 0em);
+}
+
+figure.ffo-fotolinks img,figure.ffo-groep img,figure.ffo-inlinerechts img {
+    max-width: 100%;
+    height: auto;
+    margin: 0.6em 0 0 0;
+    padding-right: .1em;
+}
+
+figure.ffo-fotolinks,figure.ffo-groep {
+    margin: 1em 0 0 0;
+}
+
+.ffo-inlinerechts img {
+    display: block;
+    float: right;
+    margin: 0;
+    padding: 0 0 0.9em 0.6em;
+    vertical-align: text-top;
+}
+
+.ffo-inlinerechts img {
+    width: 50%;
+    max-width: 50%;
+}
+
+.ffo-cluster {
+    margin-top: 0.8em;
+    page-break-inside: avoid;
+}
+
+.Voorwerk_ffvw-auteur {
+    font-size: 1.6em;
+    line-height: 1em;
+    margin: 1em 0 0.35em 0;
+}
+
+.Voorwerk_ffvw-titel {
+    font-size: 2.6em;
+    line-height: 1em;
+    margin: 0 0 0.25em 0;
+}
+
+.Voorwerk_ffvw-ondertitel {
+    font-size: 1.3em;
+    line-height: 1em;
+    margin: 0 0 0.25em 0;
+}
+
+.Voorwerk_ffvw-uitgever {
+    margin: 20% 0 0 0;
+}
+
+.Voorwerk_ffvw-toclevelb {
+    margin: 0.6em 0 0 0;
+}
+
+.Voorwerk_ffvw-toclevelc {
+    margin: 0 0 0 3.1%;
+}
+
+.Voorwerk_ffvw-colofon {
+    font-size: 0.9em;
+    margin: 0 2.4% 0 0;
+}
+
+.ff-deel {
+    line-height: 1em;
+    font-size: 2em;
+    margin: 0 0 10% 0;
+    padding: 20% 0 0 0%;
+}
+
+.ff-kop,.ff-kopx {
+    line-height: 1em;
+    font-size: 1.60em;
+    margin: 0 0 10% 0;
+}
+
+.ff-onderkop {
+    line-height: 1em;
+    font-size: 1.2em;
+    margin: 0 0 10% 0;
+}
+
+.ff-kop + .ff-onderkop {
+    margin-top: -5%;
+}
+
+.splitvistoc {
+    font-size: 1.15em;
+    font-weight: bold;
+    line-height: 1em;
+    margin: 0 0 1.5em 0;
+    color: #282828;
+}
+
+.splitinvistoc {
+    visibility: hidden;
+    line-height: 0.01em;
+    font-size: 0.01em;
+    margin: 0 0 0 0;
+}
+
+.Xtra_ff-splits {
+    visibility: hidden;
+    line-height: 0.01em;
+    font-size: 0.01em;
+    margin: 0 0 0 0;
+}
+
+.Xtra_ff-nosplitsxtra {
+    padding-top: 10%;
+}
+
+.ff-kopmedium {
+    font-size: 1.5em;
+    line-height: 1em;
+    margin: 1.2em 0 .2em 0;
+    page-break-after: avoid;
+}
+
+.ff-kopklein {
+    font-size: 1.4em;
+    line-height: 1em;
+    margin: 1.2em 0 .2em 0;
+    page-break-after: avoid;
+}
+
+.ff-tussenkop,.ff-tussenkophless {
+    font-size: 1.1em;
+    line-height: 1em;
+    margin: 1.2em 0 .2em 0;
+    page-break-after: avoid;
+}
+
+.ff-z {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+}
+
+.ff-plat {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+}
+
+.ff-platmetwit {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    margin-top: 1em;
+}
+
+.ff-plat + .ff-plat,.ff-platmetwit + .ff-plat {
+    text-indent: 3.1%;
+}
+
+.ff-z + .ff-plat {
+    text-indent: 3.1%;
+}
+
+h3 + .ff-platmetwit,h4 + .ff-platmetwit,h5 + .ff-platmetwit {
+    margin-top: 0.1em;
+}
+
+.ff-kopmedium + .ff-platmetwit,.ff-kopklein + .ff-platmetwit,.ff-tussenkop + .ff-platmetwit,.ff-tussenkophless + .ff-platmetwit {
+    margin-top: 0.1em;
+}
+
+.ff-blokmetwit,.ff-blok {
+    margin: 0 2.4% 0 3.1%;
+}
+
+.ff-blokmetwit {
+    margin-top: 1em;
+}
+
+.ff-bijschrift {
+    font-size: 0.9em;
+    line-height: 1.15em;
+    margin: 0.4em 0 1.5em 0;
+}
+
+.Lijst_ff-lijstbullet {
+    margin: 0.5em 10% 0 0;
+}
+
+.Lijst_ff-lijststreep2 {
+    margin: 0 0 0 0;
+}
+
+.Lijst_ff-lijstbullet + .Lijst_ff-lijstbullet {
+    margin-top: 0;
+}
+
+/*ol, li {margin: 2em} */
+.Lijst_ff-lijstautonum-2dig {
+    font-size: 1em;
+}
+.Lijst_ff-lijst-2dig {
+    font-size: 1em;
+    list-style-position: outside;
+    margin-left: 1.6em;
+    text-indent: -1.6em;
+}
+
+span.Lijst_fft-dig2 {
+    display: inline-block;
+    text-indent: 0;
+    width: 1.6em;
+}
+
+hr.ff-separator {
+    border: none;
+    margin: 1.5em 0 1.5em 0;
+}
+
+hr {
+    border: none;
+}
+
+._idFootnotes {
+    page-break-before: always;
+    margin-top: 3em;
+}
+
+div._idFootnote {
+    page-break-before: always;
+}
+
+.ff-voetnoten {
+    font-size: 1em;
+    list-style-position: outside;
+    margin-left: 1.6em;
+    text-indent: -1.6em;
+}
+
+a._idFootnoteAnchor {
+    display: inline-block;
+    text-indent: 0;
+    width: 1.6em;
+}
+
+a._idFootnoteAnchor {
+    color: blue;
+    text-decoration: underline;
+}
+
+span.Xtra_zz-voetnootcijfer {
+}
+
+a._idFootnoteLink {
+    font-size: 80%;
+    line-height: 1em;
+    vertical-align: super;
+    vertical-align: 35%;
+    padding-left: 0.1em;
+}
+
+a._idFootnoteLink {
+    color: blue;
+    text-decoration: underline;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+table {
+    margin: 0.5em 0 1em 0;
+    border-collapse: collapse;
+    page-break-inside: avoid;
+}
+
+td {
+    border: 1px gray solid;
+    padding: 0.2em 0.2em 0.1em 0.2em;
+}
+
+tr {
+}
+
+.ff-tabel {
+}
+
+tbody tr td {
+}
+
+thead tr td {
+    background-color: rgb(240, 240, 240);
+    border: 1px gray solid;
+}
+
+td {
+    vertical-align: top;
+}
+
+.Tabel_ff-tabelkoprij {
+    font-size: 120%;
+    vertical-align: middle;
+}
+
+.Tabel_ff-tabeltekstrij {
+    line-height: 1em;
+}
+
+span.fft-romein {
+    font-weight: normal;
+    font-style: normal;
+}
+
+span.fft-cursief {
+    font-weight: normal;
+    font-style: italic;
+}
+
+span.fft-vet {
+    font-weight: bold;
+    font-style: normal;
+}
+
+span.fft-vetcursief {
+    font-weight: bold;
+    font-style: italic;
+}
+
+span.fft-kleinkap {
+    font-size: 82%;
+}
+
+span.fft-kleinkapcursief {
+    font-size: 82%;
+    font-style: italic;
+}
+
+span.fft-kleinkapvet {
+    font-size: 82%;
+    font-weight: bold;
+}
+
+span.fft-kleinkapvetcursief {
+    font-size: 82%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+span.fft-kleinkapreal {
+    font-variant: small-caps;
+}
+
+span.fft-kleinkapcursiefreal {
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+span.fft-kleinkapvetreal {
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+span.fft-kleinkapvetcursiefreal {
+    font-variant: small-caps;
+    font-weight: bold;
+    font-style: italic;
+}
+
+span.fft-kleinkap,span.fft-kleinkapcursief,span.fft-kleinkapvet,span.fft-kleinkapvetcursief {
+    letter-spacing: 0.01em;
+}
+
+sup.fft-superscript {
+    font-size: 70%;
+    line-height: 1.2em;
+    vertical-align: super;
+    vertical-align: 35%;
+}
+
+sub.fft-subscript {
+    font-size: 70%;
+    line-height: 1.2em;
+    vertical-align: sub;
+    vertical-align: -20%;
+}
+
+span.Schreefloos_slt-romein {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 86%;
+}
+
+span.Schreefloos_slt-cursief {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 86%;
+}
+
+span.Schreefloos_slt-vet {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 86%;
+}
+
+span.fft-wit {
+    color: white;
+}
+
+span.fft-verdwijn {
+    display: none;
+}
+
+span.fft-invis {
+    visibility: hidden;
+}
+
+span.fft-onderstreept {
+    text-decoration: underline;
+}
+
+span.fft-doorgestreept {
+    text-decoration: line-through;
+}
+
+section.ffo-linkinhoud a {
+    color: black;
+}

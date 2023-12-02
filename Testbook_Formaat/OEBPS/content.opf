@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta content="Adobe InDesign 16.3.2" name="generator"/>
+    <meta name="cover" content="CoverKBtestepub3eng.jpg"/>
+    <dc:title>Test book epub3</dc:title>
+    <dc:creator>Ferdinand Rusch</dc:creator>
+    <dc:publisher>Formaat</dc:publisher>
+    <dc:date>2021-07-06T15:27:02Z</dc:date>
+    <dc:language>en-GB</dc:language>
+    <dc:language>nl-NL</dc:language>
+    <dc:language>nl-BE</dc:language>
+    <meta property="dcterms:modified">2021-07-06T17:27:47Z</meta>
+    <dc:identifier id="bookid">urn:uuid:33011D53-E2BB-4885-B7EB-72E99AEED70B</dc:identifier>
+    <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 AA.</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+    <meta content="1.5.1" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="CoverKBtestepub3eng.jpg" href="image/CoverKBtestepub3eng.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="CoverKBtestepub3eng1.jpg" href="image/CoverKBtestepub3eng1.jpg" media-type="image/jpeg"/>
+    <item id="Depositphotos_1272967_xl-2015.png" href="image/Depositphotos_1272967_xl-2015.png" media-type="image/png"/>
+    <item id="Depositphotos_7322488_xl-2015.jpg" href="image/Depositphotos_7322488_xl-2015.jpg" media-type="image/jpeg"/>
+    <item id="Depositphotos_7322488_xl-20151.jpg" href="image/Depositphotos_7322488_xl-20151.jpg" media-type="image/jpeg"/>
+    <item id="IMG_8569.png" href="image/IMG_8569.png" media-type="image/png"/>
+    <item id="KBtestbook_eng" href="KBtestbook_eng.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-1" href="KBtestbook_eng-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-10" href="KBtestbook_eng-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-11" href="KBtestbook_eng-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-12" href="KBtestbook_eng-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-13" href="KBtestbook_eng-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-14" href="KBtestbook_eng-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-15" href="KBtestbook_eng-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-16" href="KBtestbook_eng-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-17" href="KBtestbook_eng-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-18" href="KBtestbook_eng-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-19" href="KBtestbook_eng-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-2" href="KBtestbook_eng-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-20" href="KBtestbook_eng-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-21" href="KBtestbook_eng-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-22" href="KBtestbook_eng-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-3" href="KBtestbook_eng-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-4" href="KBtestbook_eng-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-5" href="KBtestbook_eng-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-6" href="KBtestbook_eng-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-7" href="KBtestbook_eng-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-8" href="KBtestbook_eng-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="KBtestbook_eng-9" href="KBtestbook_eng-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ff.css" href="css/ff.css" media-type="text/css"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="ladies_night_silhouettes2D.jpg" href="image/ladies_night_silhouettes2D.jpg" media-type="image/jpeg"/>
+    <item id="ladies_night_silhouettes2D1.jpg" href="image/ladies_night_silhouettes2D1.jpg" media-type="image/jpeg"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="x1.jpg" href="image/1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="KBtestbook_eng"/>
+    <itemref idref="KBtestbook_eng-1"/>
+    <itemref idref="KBtestbook_eng-2"/>
+    <itemref idref="KBtestbook_eng-3"/>
+    <itemref idref="KBtestbook_eng-4"/>
+    <itemref idref="KBtestbook_eng-5"/>
+    <itemref idref="KBtestbook_eng-6"/>
+    <itemref idref="KBtestbook_eng-7"/>
+    <itemref idref="KBtestbook_eng-8"/>
+    <itemref idref="KBtestbook_eng-9"/>
+    <itemref idref="KBtestbook_eng-10"/>
+    <itemref idref="KBtestbook_eng-11"/>
+    <itemref idref="KBtestbook_eng-12"/>
+    <itemref idref="KBtestbook_eng-13"/>
+    <itemref idref="KBtestbook_eng-14"/>
+    <itemref idref="KBtestbook_eng-15"/>
+    <itemref idref="KBtestbook_eng-16"/>
+    <itemref idref="KBtestbook_eng-17"/>
+    <itemref idref="KBtestbook_eng-18"/>
+    <itemref idref="KBtestbook_eng-19"/>
+    <itemref idref="KBtestbook_eng-20"/>
+    <itemref idref="KBtestbook_eng-21"/>
+    <itemref idref="KBtestbook_eng-22"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="cover.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="KBtestbook_eng-5.xhtml#_idContainer007"/>
+    <reference type="text" title="Beginning" href="KBtestbook_eng-8.xhtml#_idContainer020"/>
+  </guide>
+</package>
